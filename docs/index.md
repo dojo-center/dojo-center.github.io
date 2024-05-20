@@ -12,7 +12,7 @@
 
 <p>...</p>
 
-{%- include dojo-instructions.html -%}
+<iframe src="https://insightful-learning.dojo.center" title="Insightful Learning: InnerSource Dojo Way (Agile Learning Method)" style="width:100%; height: 350px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <br/>
 <h5>Levels</h5>
