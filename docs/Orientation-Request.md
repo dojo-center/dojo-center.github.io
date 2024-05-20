@@ -29,7 +29,7 @@ We center from core principles:
 
 *What Learning and Development paths are available?*
 
-At the top of page, you will see a drop down for Domains. We recommend Mindset and Agile to everyone, however you will also see specific domains for topics like Kubernetes or Observability.
+At the top of page, you will see a drop down for Domains. We recommend Mindset to everyone.
 
 *How do you read the content?*
 
