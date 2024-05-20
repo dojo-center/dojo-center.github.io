@@ -70,7 +70,7 @@ If a Deficiency Flag (red label) appears, the request will have 30 days to be ir
     * From the *docs* folder, navigate to the *_data* folder
     * From the *_data* folder, navigate to the *members* folder
 1. On the right side of the screen select "Create new file" from the "Add file" dropdown
-1. Name the file with your ID number in lowercase and with a yaml extension
+1. Name the file with your name (hyphenated) in lowercase and with a yaml extension
 1. Back in the GitHub tab, add the following template data in the "Edit new file" section
 
 ```yaml

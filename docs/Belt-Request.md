@@ -45,7 +45,7 @@ If a Deficiency Flag (red label) appears, the request will have 30 days to be ir
 
 1. Open a web browser to the Members area of the Dojo GitHub repository:
     * [{{site.repositoryUrl}}/tree/main/docs/_data/members]({{site.repositoryUrl}}/tree/main/docs/_data/members)
-1. Locate and open your file by your ID number
+1. Locate and open your file by your (hyphenated) name
 1. Verify all information is correct, select Edit (top right), and add the new domain level claim request:
 
 ```yaml
