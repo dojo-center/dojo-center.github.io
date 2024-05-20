@@ -12,7 +12,7 @@
 
 <p>...</p>
 
-<iframe src="https://mindset.basil.one" title="Insightful Learning: InnerSource Dojo Way (Agile Learning Method)" style="width:100%; height: 350px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe src="https://www.youtube.com/embed/5TWsIeeYu7k?si=5uyiM_n43lux-Xy0" title="Insightful Learning: InnerSource Dojo Way (Agile Learning Method)" style="width:100%; height: 350px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <br/>
 <h5>Levels</h5>
