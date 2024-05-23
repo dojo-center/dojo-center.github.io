@@ -12,7 +12,7 @@
 
 <p>...</p>
 
-<!--iframe src="https://insightful-learning.dojo.center" title="Insightful Learning: InnerSource Dojo Way (Agile Learning Method)" style="width:100%; height: 350px;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fXoVm5iTSCc?si=SICIOfw8SJkTLDzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/>
 <h5>Levels</h5>
