@@ -58,6 +58,12 @@ domains:
   - Agile
   - InnerSource
 
+circles:
+  - label: Dojo Circle
+    url: https://circle.dojo.center
+    times: 
+      - 8 AM CT (13:00 UTC / 14:00 UTC)
+
 community:
   - link: Members
     icon: users

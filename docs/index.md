@@ -15,14 +15,14 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXoVm5iTSCc?si=SICIOfw8SJkTLDzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/>
-<h5>Levels</h5>
+<h5>Circles</h5>
 
-{% for beltLevel in site.beltLevels %}
-<img src="images/belt-{{beltLevel.value}}.png" height="50" alt="{{beltLevel.value}}" />
-<a name="{{beltLevel.value}}-belt">{{beltLevel.label}}</a>
+{% for circle in site.circles %}
 <ul>
-    {% for competence in beltLevel.competences %}
-    <li>{{competence}}</li>
+    <p><a name="{{circle.label}}-circle">{{circle.label}}</a></p>
+    <p><a href="{{circle.url}}">{{circle.url}}</a></p>
+    {% for time in circle.times %}
+    <li>{{time}}</li>
     {% endfor %}
 </ul>
 {% endfor %}
@@ -39,3 +39,16 @@
     </li>
 {% endfor %}
 </ul>
+
+<br/>
+<h5>Levels</h5>
+
+{% for beltLevel in site.beltLevels %}
+<img src="images/belt-{{beltLevel.value}}.png" height="50" alt="{{beltLevel.value}}" />
+<a name="{{beltLevel.value}}-belt">{{beltLevel.label}}</a>
+<ul>
+    {% for competence in beltLevel.competences %}
+    <li>{{competence}}</li>
+    {% endfor %}
+</ul>
+{% endfor %}
