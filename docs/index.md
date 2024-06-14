@@ -17,15 +17,19 @@
 <br/>
 <h5>Circles</h5>
 
-{% for circle in site.circles %}
 <ul>
+{% for circle in site.circles %}
+  <li>
     <p><a name="{{circle.label}}-circle">{{circle.label}}</a></p>
     <p><a href="{{circle.url}}">{{circle.url}}</a></p>
-    {% for time in circle.times %}
-    <li>{{time}}</li>
-    {% endfor %}
-</ul>
+    <ul>
+      {% for time in circle.times %}
+      <li>{{time}}</li>
+      {% endfor %}
+    </ul>
+  </li>
 {% endfor %}
+</ul>
 
 <br/>
 <h5>Domains</h5>
