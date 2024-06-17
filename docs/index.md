@@ -27,6 +27,7 @@
       <li>{{time}}</li>
       {% endfor %}
     </ul>
+    <br/>
   </li>
 {% endfor %}
 </ul>
@@ -43,6 +44,7 @@
       <li>{{detail}}</li>
       {% endfor %}
     </ul>
+    <br/>
   </li>
 {% endfor %}
 </ul>
