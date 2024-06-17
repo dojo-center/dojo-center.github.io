@@ -37,8 +37,7 @@
 <ul>
 {% for sensei in site.sensei %}
   <li>
-    <p><a name="{{sensei.label}}-sensei">{{sensei.label}}</a></p>
-    <p><a href="{{sensei.url}}">{{sensei.url}}</a></p>
+    <p><a name="{{sensei.label}}-sensei" href="{{sensei.url}}">{{sensei.label}}</a></p>
     <ul>
       {% for detail in sensei.details %}
       <li>{{detail}}</li>
