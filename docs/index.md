@@ -33,6 +33,19 @@
 </ul>
 
 <br/>
+<h5>Domains</h5>
+
+<ul>
+{% for domain in site.domains %}
+    {% assign domainInfo = site.data.domains | where: "label",domain %}
+    <li>
+        <p><a name="domain-{{domain}}" href="{{ domain | relative_url}}">{{ domain }}</a></p>
+        <p>{{ domainInfo[0]["mission"]}}</p>
+    </li>
+{% endfor %}
+</ul>
+
+<br/>
 <h5>Sensei</h5>
 
 <ul>
@@ -46,19 +59,6 @@
     </ul>
     <br/>
   </li>
-{% endfor %}
-</ul>
-
-<br/>
-<h5>Domains</h5>
-
-<ul>
-{% for domain in site.domains %}
-    {% assign domainInfo = site.data.domains | where: "label",domain %}
-    <li>
-        <p><a name="domain-{{domain}}" href="{{ domain | relative_url}}">{{ domain }}</a></p>
-        <p>{{ domainInfo[0]["mission"]}}</p>
-    </li>
 {% endfor %}
 </ul>
 
