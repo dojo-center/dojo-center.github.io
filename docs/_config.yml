@@ -64,6 +64,18 @@ circles:
     times: 
       - 8 AM CT (13:00 UTC / 14:00 UTC)
 
+sensei:
+  - label: Michael Basil 
+    url: https://www.linkedin.com/in/michaelrbasil
+    details:
+      - Regular attendee of Friday Dojo Circle
+      - Available for open networking conversations
+      - Private coaching / consultation inquiries welcome
+  - label: Bill Westfall 
+    url: https://www.linkedin.com/in/bill-westfall-3268494
+    details:
+      - Regular attendee of Friday Dojo Circle
+
 community:
   - link: Members
     icon: users

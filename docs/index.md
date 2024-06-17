@@ -32,6 +32,23 @@
 </ul>
 
 <br/>
+<h5>Sensei</h5>
+
+<ul>
+{% for sensei in site.sensei %}
+  <li>
+    <p><a name="{{sensei.label}}-sensei">{{sensei.label}}</a></p>
+    <p><a href="{{sensei.url}}">{{sensei.url}}</a></p>
+    <ul>
+      {% for detail in sensei.details %}
+      <li>{{detail}}</li>
+      {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</ul>
+
+<br/>
 <h5>Domains</h5>
 
 <ul>
