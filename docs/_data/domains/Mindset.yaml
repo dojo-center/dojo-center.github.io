@@ -63,8 +63,8 @@ exercises:
   - label: Conditioning
     level: green
     movements:
-      - label: "Movie - Free Solo"
-        link: https://www.imdb.com/title/tt7775622/
+      - label: Inside Out 2
+        link: https://movies.disney.com/inside-out-2
         type: film
       - label: Agile Mental Model (Karpman Awareness Triangle)
         link: https://agile-od.com/mental-model-dojo/karpmans-drama-triangle
