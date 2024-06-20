@@ -1,4 +1,0 @@
----
-layout: domain
-title: InnerSource
----
