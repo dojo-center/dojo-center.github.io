@@ -57,7 +57,7 @@ exercises:
         link: https://www.youtube.com/watch?v=MFzDaBzBlL0
         type: video-camera
       - label: The Power of System Metaphor
-        link: https://softwareplanetgroup.co.uk/the-power-of-the-system-metaphor/
+        link: https://en.wikibooks.org/wiki/Software_Engineering_with_an_Agile_Development_Framework/Iteration_One/System_metaphor
         type: globe
     duration: 3.0 hrs
   - label: Conditioning
