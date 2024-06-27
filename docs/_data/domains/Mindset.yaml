@@ -97,12 +97,17 @@ exercises:
         type: video-camera
       - label: Smarter Every Day 293 - I Was SCARED To Say This To NASA... (But I said it anyway)
         link: https://www.youtube.com/watch?v=OoJsPvmFixU
+        type: video-camera
+      - label: A Definitive Guide to Understanding Intrinsic Motivation
+        link: https://scottjeffrey.com/intrinsic-motivation-examples
+        type: globe
     duration: 5.0 hrs
   - label: Conditioning
     level: red
     movements:
       - label: Spiral Dynamics Integral - How to Use Grave’s Values Model for Psychological Development
         link: https://scottjeffrey.com/spiral-dynamics
+        type: globe
       - label: Atomic Habits - How to Get 1% Better Every Day - James Clear
         link: https://www.youtube.com/watch?v=U_nzqnXWvSo
         type: video-camera
