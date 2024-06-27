@@ -101,6 +101,8 @@ exercises:
   - label: Conditioning
     level: red
     movements:
+      - label: Spiral Dynamics Integral - How to Use Grave’s Values Model for Psychological Development
+        link: https://scottjeffrey.com/spiral-dynamics
       - label: Atomic Habits - How to Get 1% Better Every Day - James Clear
         link: https://www.youtube.com/watch?v=U_nzqnXWvSo
         type: video-camera
