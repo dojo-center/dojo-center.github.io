@@ -69,9 +69,6 @@ exercises:
       - label: Agile Mental Model (Karpman Awareness Triangle)
         link: https://agile-od.com/mental-model-dojo/karpmans-drama-triangle
         type: globe
-      - label: Post a short introduction video to one of the communities
-        link: ./Mindset#communities
-        type: users
       - label: Participate in a Dojo Mindset Circle session
         link: ./Mindset#communities
         type: connectdevelop
