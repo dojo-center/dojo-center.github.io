@@ -16,7 +16,7 @@ Sometimes in our excitement we may have missed some of the signals and cues alon
 
 Dialog is paramount to reinforce learning and is at the heart of the social connection of the Dojo Community.
 
-Before working through the logistics of the belt claim, please ensure that you have found a Dialog Partner and upacked the concepts thoroughly.  Through this give and take we are challenged to recall what we have learned, test and deepen understanding.  Additionally, we increase awareness to consider how what we learn applies personally and our social circles.
+Before working through the logistics of the belt claim, please ensure that you have found a Dialog Partner and upacked the concepts thoroughly.  Through this give and take we are challenged to recall what we have learned, test and deepen understanding.  Additionally, we increase awareness to consider how what we learn applies personally and in our social circles.
 
 ### Purposeful Reflection
 
