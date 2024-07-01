@@ -94,6 +94,10 @@ exercises:
         type: video-camera
       - label: Smarter Every Day 293 - I Was SCARED To Say This To NASA... (But I said it anyway)
         link: https://www.youtube.com/watch?v=OoJsPvmFixU
+        type: video-camera
+      - label: 4th-Person Knowing - A New, Old Way For Leadership Insight
+        link: https://www.forbes.com/sites/ginnywhitelaw/2024/07/01/4th-person-knowing-a-new-old-way-for-leadership-insight
+        type: globe
     duration: 5.0 hrs
   - label: Conditioning
     level: red
