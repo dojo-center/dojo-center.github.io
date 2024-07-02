@@ -98,6 +98,9 @@ exercises:
   - label: Conditioning
     level: red
     movements:
+      - label: How to Change Your Mindset from Fixed to Growth - A Definitive Guide
+        link: https://scottjeffrey.com/how-to-change-your-mindset
+        type: globe
       - label: Atomic Habits - How to Get 1% Better Every Day - James Clear
         link: https://www.youtube.com/watch?v=U_nzqnXWvSo
         type: video-camera
