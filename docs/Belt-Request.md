@@ -27,7 +27,8 @@ The pull request will need to include a ***Purposeful Reflection***.
 #### Guidance
 
 * Throw away or delete all of your stored notes
-* Take a minute and center on the *Mission* and *Principles* of the domain
+* Take a moment and center on the *Mission* and *Principles* of the domain
+* Take a moment and center on the belt level competence guidance
 * Time box creating your reflection (at least the first draft) to 30 minutes
 * Describe:
   * 3 points of resonation
