@@ -53,7 +53,7 @@ We want everyone to have access to move through each domain and the ability to e
 
 The pull request will need to include a ***Purposeful Reflection***.
 
-***Whilte level reflection illustrates the motivation for engaging this learning journey.***
+***White level reflection illustrates the motivation for engaging this learning journey.***
 
 #### Guidance
 
