@@ -69,9 +69,6 @@ exercises:
       - label: Agile Mental Model (Karpman Awareness Triangle)
         link: https://agile-od.com/mental-model-dojo/karpmans-drama-triangle
         type: globe
-      - label: Post a short introduction video to one of the communities
-        link: ./Mindset#communities
-        type: users
       - label: Participate in a Dojo Mindset Circle session
         link: ./Mindset#communities
         type: connectdevelop
@@ -100,6 +97,8 @@ exercises:
         type: video-camera
       - label: A Definitive Guide to Understanding Intrinsic Motivation
         link: https://scottjeffrey.com/intrinsic-motivation-examples
+      - label: 4th-Person Knowing - A New, Old Way For Leadership Insight
+        link: https://www.forbes.com/sites/ginnywhitelaw/2024/07/01/4th-person-knowing-a-new-old-way-for-leadership-insight
         type: globe
     duration: 5.0 hrs
   - label: Conditioning
