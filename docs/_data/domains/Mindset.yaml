@@ -86,6 +86,9 @@ exercises:
   - label: Inspiration
     level: red
     movements:
+      - label: The Dunning-Kruger Effect (Or, Dealing with Author Despair Syndrome)
+        link: https://foxprinteditorial.com/2023/01/26/the-dunning-kruger-effect-or-dealing-with-author-despair-syndrome
+        type: globe
       - label: The Goal Video - Boy Scout Hike
         link: https://www.youtube.com/watch?v=Heesxgrl-cM
         type: video-camera
