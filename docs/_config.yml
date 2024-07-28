@@ -38,7 +38,7 @@ beltLevels:
   - label: Red level - Action
     value: red
     competences:
-      - Action-based understanding, like riding a bicycle at first, falling down frequently
+      - Direct experience, like riding a bicycle at first, falling down frequently
       - Demonstrated applied action using a new skill supported by peers
       - '<a href="./Belt-Request">Belt Claim - Demonstrate competence to apply skill going forward with autonomy and inclusiveness</a>'
   - label: Black level - Acceleration
