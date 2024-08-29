@@ -63,27 +63,28 @@ exercises:
   - label: Conditioning
     level: green
     movements:
-      - label: Inside Out 2
-        link: https://movies.disney.com/inside-out-2
-        type: film
       - label: Agile Mental Model (Karpman Awareness Triangle)
         link: https://agile-od.com/mental-model-dojo/karpmans-drama-triangle
         type: globe
       - label: How To Master & Control Your Emotions
         link: https://www.youtube.com/watch?v=hYZmK46--Mc
         type: video-camera
-      - label: Participate in a Dojo Mindset Circle session
+      - label: Inside Out 2
+        link: https://movies.disney.com/inside-out-2
+        type: film
+      - label: Unpack learned insights in a Dojo Mindset Circle session
         link: ./Mindset#communities
         type: connectdevelop
       - label: Send a note of appreciation to your dialog partners
         link: https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/main/patterns/2-structured/praise-participants.md
         type: lightbulb-o
     instructions:
-      - Watch the movie
       - Review Karpman's Drama Triangle about drama dynamics
+      - Watch the video and perform the exercise about emotional intelligence
+      - Watch the movie
       - Reflect on how it relates to navigating passionate situations
       - Have a dialog session with a peer to unwrap, unpack and find points of resonance of this exploration
-      - Participate in a Dojo Circle session
+      - Unpack learned insights from the conditioning exercises in a Dojo Circle session
       - Send a note of appreciation to your dialog partners
     duration: 7.0 hrs
   - label: Inspiration
