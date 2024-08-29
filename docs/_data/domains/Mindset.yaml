@@ -1,11 +1,11 @@
 ---
 label: Mindset
-mission: Thriving human being
+mission: Realize cycles of expanding comfort and increasing potential
 principles:
   - label: Reconnect with purpose under pressure
-  - label: Intelligent conflict improves relationships, even adversarial
-  - label: Lean and flow with emotional waves
-  - label: Improve reflex through intentional repetition
+  - label: Emotional waves mirror current perception
+  - label: Insightful conflict enhances even adversarial relationships
+  - label: Reflex improves through intentional repetition
 communities:
   - label: Dojo Circle (Dojo Center) (Fridays at 13:00 UTC)
     link: https://circle.dojo.center
@@ -69,6 +69,9 @@ exercises:
       - label: Agile Mental Model (Karpman Awareness Triangle)
         link: https://agile-od.com/mental-model-dojo/karpmans-drama-triangle
         type: globe
+      - label: How To Master & Control Your Emotions
+        link: https://www.youtube.com/watch?v=hYZmK46--Mc
+        type: video-camera
       - label: Participate in a Dojo Mindset Circle session
         link: ./Mindset#communities
         type: connectdevelop
