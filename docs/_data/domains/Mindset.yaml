@@ -66,7 +66,7 @@ exercises:
       - label: Agile Mental Model (Karpman Awareness Triangle)
         link: https://agile-od.com/mental-model-dojo/karpmans-drama-triangle
         type: globe
-      - label: How To Master & Control Your Emotions
+      - label: Actualized.org - How To Master & Control Your Emotions
         link: https://www.youtube.com/watch?v=hYZmK46--Mc
         type: video-camera
       - label: Inside Out 2
@@ -111,8 +111,8 @@ exercises:
   - label: Conditioning
     level: red
     movements:
-      - label: Spiral Dynamics Integral - How to Use Grave’s Values Model for Psychological Development
-        link: https://scottjeffrey.com/spiral-dynamics
+      - label: Actualized.org - The Grand Model Of Psychological Evolution - Clare Graves & Spiral Dynamics
+        link: https://www.youtube.com/watch?v=23aDNBvn_2g
         type: globe
       - label: Atomic Habits - How to Get 1% Better Every Day - James Clear
         link: https://www.youtube.com/watch?v=U_nzqnXWvSo
