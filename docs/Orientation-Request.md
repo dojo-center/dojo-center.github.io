@@ -9,21 +9,17 @@ Putting on a white belt helps to introduce newcomers to the dojo concept and its
 
 We practice:
 
-* How to work in short iterations
-* How to experiment with new ideas
-* Healthy ways to solicit feedback from others
-* Tools and techniques for deeper learning
-* Dialectic approaches
+* Intentional Dialogs
+* Mindset Mastery
+* Emotionally Intelligent Conflict
 
 ### Centering
 
 We center from core principles:
 
-* Bias towards transparency
-* Failure is equally valuable to success
-* Network with peers for support
-* Colocate learning investments within team backlogs
-* Deliver iteratively, responsively to feedback
+* Authentic Expression
+* Holistic Integration
+* Collective Empowerment
 
 ### Pointers
 
@@ -60,6 +56,7 @@ The pull request will need to include a ***Purposeful Reflection***.
 * Take a moment and center on the *Mission* and *Principles* of the domain
 * Take a moment and center on the belt level competence guidance
 * Time box creating your reflection to 30 minutes
+* Engage a sensei to work through the submission process together
 * Once you have submitted your belt claim, bring it up at the next Dojo Circle to introduce yourself 
 
 #### White Belt Claim Review Criteria
