@@ -26,6 +26,8 @@ The pull request will need to include a ***Purposeful Reflection***.
 
 #### Guidance
 
+***Green Level***: 
+
 * Throw away or delete all of your stored notes
 * Take a moment and center on the *Mission* and *Principles* of the domain
 * Take a moment and center on the belt level competence guidance
@@ -35,7 +37,39 @@ The pull request will need to include a ***Purposeful Reflection***.
   * 3 points of struggle and how it was resolved
   * Overall experience with dialog sessions
   * Any story of how you have attempted to apply what has been learned
-* Once you have submitted your belt claim, bring it up at the next Dojo Circle to be tested 
+* Once you have submitted your belt claim, bring it up at the next Dojo Circle to be tested
+
+***Red Level***: 
+
+* Throw away or delete all of your stored notes
+* Take a moment and center on the *Mission* and *Principles* of the domain
+* Take a moment and center on the belt level competence guidance
+* Draft a story:
+  * Illustrating points of resonation and struggle with the red level material
+  * Display a clear and direct experiential shift in one of the key principles
+  * Use storytelling directly, through fable or alternative
+  * Capture the draft in the pull request
+* Once you have a clear draft:
+  * Review the story with 2 members of the community
+  * Engage a sensei to review, iterate and then publish to Medium, LinkedIn or aother agreed location
+  * Engage the current Cirlce leader to bring the claim up for demo testing at the next Circle
+  * The story may or may not be read, but you will be expcted to respond to principle and curriculum based queries
+ 
+***Black Level***:
+
+* Throw away or delete all of your stored notes
+* Take a moment and center on the *Mission* and *Principles* of the domain
+* Take a moment and center on the belt level competence guidance
+* Draft a story:
+  * Illustrating points of resonation and struggle with the red level material
+  * Display a clear and embodied understanding of each of the key principles and how they purposefully interrelate
+  * Use storytelling directly, through fable or alternative
+  * Capture the draft in the pull request
+* Once you have a clear draft:
+  * Review the story with 2 members of the community
+  * Engage a sensei to review, iterate and then publish to Medium, LinkedIn or aother agreed location
+  * Engage the current Cirlce leader to bring the claim up for demo testing at the next Circle
+  * The story may or may not be read, but you will be expcted to respond to principle or curriculum based queries
 
 #### Belt Claim Review Criteria
 
