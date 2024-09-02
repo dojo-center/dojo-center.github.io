@@ -5,21 +5,24 @@ layout: page
 
 Putting on a white belt helps to introduce newcomers to the dojo concept and its offerings.
 
-### Practice
+### Core Principles
 
-We practice:
+<ul>
+{% for domainWrapper in site.data.domains %}
+{% assign domain = domainWrapper[1] %}
+{% if domain.label == "Mindset" %}
+{% for principle in domain.principles %}
+  <li>{{principle.label}}</li>
+{% endfor %}
+{% endif %}
+{% endfor %}
+</ul>
 
-* Intentional Dialogs
-* Mindset Mastery
-* Emotionally Intelligent Conflict
+### Core Practices
 
-### Centering
-
-We center from core principles:
-
-* Authentic Expression
-* Holistic Integration
-* Collective Empowerment
+* Solo Reflection
+* Partner Dialog
+* Group Circle
 
 ### Pointers
 
