@@ -53,7 +53,7 @@ The pull request will need to include a ***Purposeful Reflection***.
   * Capture the draft in the pull request
 * Once you have a clear draft:
   * Review the story with 2 members of the community
-  * Engage a sensei to review, iterate and then publish to Medium, LinkedIn or aother agreed location
+  * Engage a sensei to review, iterate and then publish to Medium, LinkedIn or another agreed location
   * Engage the current Cirlce leader to bring the claim up for demo testing at the next Circle
   * The story may or may not be read, but you will be expcted to respond to principle and curriculum based queries
 
@@ -71,7 +71,7 @@ The pull request will need to include a ***Purposeful Reflection***.
   * Capture the draft in the pull request
 * Once you have a clear draft:
   * Review the story with 2 members of the community
-  * Engage a sensei to review, iterate and then publish to Medium, LinkedIn or aother agreed location
+  * Engage a sensei to review, iterate and then publish to Medium, LinkedIn or another agreed location
   * Engage the current Cirlce leader to bring the claim up for demo testing at the next Circle
   * The story may or may not be read, but you will be expcted to respond to principle or curriculum based queries
 
