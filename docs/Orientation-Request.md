@@ -5,25 +5,24 @@ layout: page
 
 Putting on a white belt helps to introduce newcomers to the dojo concept and its offerings.
 
-### Practice
+### Core Principles
 
-We practice:
+<ul>
+{% for domainWrapper in site.data.domains %}
+{% assign domain = domainWrapper[1] %}
+{% if domain.label == "Mindset" %}
+{% for principle in domain.principles %}
+  <li>{{principle.label}}</li>
+{% endfor %}
+{% endif %}
+{% endfor %}
+</ul>
 
-* How to work in short iterations
-* How to experiment with new ideas
-* Healthy ways to solicit feedback from others
-* Tools and techniques for deeper learning
-* Dialectic approaches
+### Core Practices
 
-### Centering
-
-We center from core principles:
-
-* Bias towards transparency
-* Failure is equally valuable to success
-* Network with peers for support
-* Colocate learning investments within team backlogs
-* Deliver iteratively, responsively to feedback
+* Solo Reflection
+* Partner Dialog
+* Group Circle
 
 ### Pointers
 
@@ -60,6 +59,7 @@ The pull request will need to include a ***Purposeful Reflection***.
 * Take a moment and center on the *Mission* and *Principles* of the domain
 * Take a moment and center on the belt level competence guidance
 * Time box creating your reflection to 30 minutes
+* Engage a sensei to work through the submission process together
 * Once you have submitted your belt claim, bring it up at the next Dojo Circle to introduce yourself 
 
 #### White Belt Claim Review Criteria

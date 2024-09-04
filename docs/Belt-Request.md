@@ -6,8 +6,6 @@ layout: page
 If this is your first time submitting a belt request, please visit the <a href="{{ '/Orientation-Request' | relative_url }}">Orientation Request</a> page for support.
 </div>
 
-
-
 Congratulations on making it to the point where you are considering making a belt claim!
 
 Sometimes in our excitement we may have missed some of the signals and cues along the way.
@@ -26,6 +24,10 @@ The pull request will need to include a ***Purposeful Reflection***.
 
 #### Guidance
 
+{% assign beltLevel = site.beltLevels | where: "value", "green" | first %}
+<img src="images/belt-{{beltLevel.value}}.png" height="50" alt="{{beltLevel.value}}" />
+<a name="{{beltLevel.value}}-belt">{{beltLevel.label}}</a>
+
 * Throw away or delete all of your stored notes
 * Take a moment and center on the *Mission* and *Principles* of the domain
 * Take a moment and center on the belt level competence guidance
@@ -35,7 +37,43 @@ The pull request will need to include a ***Purposeful Reflection***.
   * 3 points of struggle and how it was resolved
   * Overall experience with dialog sessions
   * Any story of how you have attempted to apply what has been learned
-* Once you have submitted your belt claim, bring it up at the next Dojo Circle to be tested 
+* Once you have submitted your belt claim, bring it up at the next Dojo Circle to be tested
+
+{% assign beltLevel = site.beltLevels | where: "value", "red" | first %}
+<img src="images/belt-{{beltLevel.value}}.png" height="50" alt="{{beltLevel.value}}" />
+<a name="{{beltLevel.value}}-belt">{{beltLevel.label}}</a>
+
+* Throw away or delete all of your stored notes
+* Take a moment and center on the *Mission* and *Principles* of the domain
+* Take a moment and center on the belt level competence guidance
+* Draft a story:
+  * Illustrating points of resonation and struggle with the red level material
+  * Display a clear and direct experiential shift in one of the key principles
+  * Use storytelling directly, through fable or alternative
+  * Capture the draft in the pull request
+* Once you have a clear draft:
+  * Review the story with 2 members of the community
+  * Engage a sensei to review, iterate and then publish to Medium, LinkedIn or another agreed location
+  * Engage the current Cirlce leader to bring the claim up for demo testing at the next Circle
+  * The story may or may not be read, but you will be expcted to respond to principle and curriculum based queries
+
+{% assign beltLevel = site.beltLevels | where: "value", "black" | first %}
+<img src="images/belt-{{beltLevel.value}}.png" height="50" alt="{{beltLevel.value}}" />
+<a name="{{beltLevel.value}}-belt">{{beltLevel.label}}</a>
+
+* Throw away or delete all of your stored notes
+* Take a moment and center on the *Mission* and *Principles* of the domain
+* Take a moment and center on the belt level competence guidance
+* Draft a story:
+  * Illustrating points of resonation and struggle with the red level material
+  * Display a clear and embodied understanding of each of the key principles and how they purposefully interrelate
+  * Use storytelling directly, through fable or alternative
+  * Capture the draft in the pull request
+* Once you have a clear draft:
+  * Review the story with 2 members of the community
+  * Engage a sensei to review, iterate and then publish to Medium, LinkedIn or another agreed location
+  * Engage the current Cirlce leader to bring the claim up for demo testing at the next Circle
+  * The story may or may not be read, but you will be expcted to respond to principle or curriculum based queries
 
 #### Belt Claim Review Criteria
 
@@ -43,7 +81,6 @@ During the review of the ***Belt Claim Pull Request*** the following criteria wi
 
 * Dialog
   * Sufficient: belt-claim-verified-dialog
-    * ***For red and black level, belt claim must be unpacked during a Circle meetup with higher ranking senpai or sensei***
   * Deficient: belt-claim-repeat-dialog
 * Purposeful Reflection
   * Sufficient: belt-claim-verified-reflection
@@ -55,7 +92,7 @@ During the review of the ***Belt Claim Pull Request*** the following criteria wi
   * Sufficient: belt-claim-verified-formatting
   * Deficient: belt-claim-correct-formatting
 
-If a Deficiency Flag (red label) appears, the request will have 30 days to be ironed out.  If that time has passed and the belt claim is not able to clear, it will be closed.  If at a later time the impediments have been cleared a fresh pull request can be submitted or the pull request can be re-opened.
+If a Deficiency Flag (red label) appears, engage a sensei to align on a path forward.
 
 #### New Belt Claim
 
