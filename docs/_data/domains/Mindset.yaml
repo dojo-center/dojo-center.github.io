@@ -10,10 +10,10 @@ communities:
   - label: Dojo Circle (Dojo Center) (Fridays at 13:00 UTC)
     link: https://circle.dojo.center
 exercises:
-  - label: Orientation
+  - label: Ignition
     level: white
     movements:
-      - label: Work through Orientation with support from a Sensei
+      - label: Work through Orientation with a Sensei
         link: ./Orientation-Request
         type: connectdevelop
     duration: 1.0 hrs
