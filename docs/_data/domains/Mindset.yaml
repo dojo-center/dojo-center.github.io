@@ -10,6 +10,13 @@ communities:
   - label: Dojo Circle (Dojo Center) (Fridays at 13:00 UTC)
     link: https://circle.dojo.center
 exercises:
+  - label: Orientation
+    level: white
+    movements:
+      - label: Work through Orientation with support from a Sensei
+        link: ./Orientation-Request
+        type: connectdevelop
+    duration: 1.0 hrs
   - label: Daybreak
     level: green
     movements:
