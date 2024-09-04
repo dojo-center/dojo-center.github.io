@@ -47,15 +47,16 @@ The pull request will need to include a ***Purposeful Reflection***.
 * Take a moment and center on the *Mission* and *Principles* of the domain
 * Take a moment and center on the belt level competence guidance
 * Draft a story:
-  * Illustrating points of resonation and struggle with the red level material
+  * Illustrating points of resonation and struggle with the Red level material
   * Display a clear and direct experiential shift in one of the key principles
   * Use storytelling directly, through fable or alternative
   * Capture the draft in the pull request
 * Once you have a clear draft:
   * Review the story with 2 members of the community
-  * Engage a sensei to review, iterate and then publish to Medium, LinkedIn or another agreed location
+  * Engage a Sensei to review, iterate and then publish to Medium, LinkedIn or another agreed location
   * Engage the current Cirlce leader to bring the claim up for demo testing at the next Circle
   * The story may or may not be read, but you will be expcted to respond to principle and curriculum based queries
+    * Green and Red level concepts are in scope
 
 {% assign beltLevel = site.beltLevels | where: "value", "black" | first %}
 <img src="images/belt-{{beltLevel.value}}.png" height="50" alt="{{beltLevel.value}}" />
@@ -65,15 +66,16 @@ The pull request will need to include a ***Purposeful Reflection***.
 * Take a moment and center on the *Mission* and *Principles* of the domain
 * Take a moment and center on the belt level competence guidance
 * Draft a story:
-  * Illustrating points of resonation and struggle with the red level material
+  * Illustrating points of resonation and struggle with the Black level material
   * Display a clear and embodied understanding of each of the key principles and how they purposefully interrelate
   * Use storytelling directly, through fable or alternative
   * Capture the draft in the pull request
 * Once you have a clear draft:
   * Review the story with 2 members of the community
-  * Engage a sensei to review, iterate and then publish to Medium, LinkedIn or another agreed location
+  * Engage a Sensei to review, iterate and then publish to Medium, LinkedIn or another agreed location
   * Engage the current Cirlce leader to bring the claim up for demo testing at the next Circle
   * The story may or may not be read, but you will be expcted to respond to principle or curriculum based queries
+    * Green, Red and Black level concepts are in scope
 
 #### Belt Claim Review Criteria
 
@@ -92,7 +94,7 @@ During the review of the ***Belt Claim Pull Request*** the following criteria wi
   * Sufficient: belt-claim-verified-formatting
   * Deficient: belt-claim-correct-formatting
 
-If a Deficiency Flag (red label) appears, engage a sensei to align on a path forward.
+If a Deficiency Flag (red label) appears, engage a Sensei to align on a path forward.
 
 #### New Belt Claim
 
@@ -117,5 +119,5 @@ belts:
 1. In the large textarea provide your ***Recap and Purposeful Reflection*** of your experience and the belt claim
 1. Press "Create pull request"
 1. The pull request will be listed at [{{site.repositoryUrl}}/pulls]({{site.repositoryUrl}}/pulls)
-1. A Dojo Sensei will respond as soon as practicable via email commententary with the pull request
+1. A Sensei will respond as soon as practicable via email commententary with the pull request
 
