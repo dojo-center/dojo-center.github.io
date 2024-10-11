@@ -12,7 +12,7 @@
 
 We created **Mindset Dojo** because we found that while many business leaders and teams **understand strategy**, they often struggle to **execute on it**. It’s not just a matter of knowledge—it’s about the **internal blocks** that prevent effective action.
 
-While we designed an evolved our program at a fortue 500 company, it evolved as more diverse problems were encountered by the plethora of individuals, groups and organizations that became members.
+While we designed our program at a fortue 500 company, it evolved as more diverse problems were encountered by the plethora of individuals, groups and organizations that became members.
 
 Interestingly, the same issues show up in **personal relationships** and **high-stakes situations** outside of business. Whether it's with partners, colleagues, or even parenting, the inability to navigate **emotions, conflict, and stress** prevents people from staying in balance and thriving keeping outcomes and goals elusive and out of reach.
 
