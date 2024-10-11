@@ -8,15 +8,13 @@
     </div>
 </div>
 
-# Balance Within, Excellence Beyond
+## Balance Within, Excellence Beyond
 
 We created **Mindset Dojo** because we found that while many business leaders and teams **understand strategy**, they often struggle to **execute on it**. It’s not just a matter of knowledge—it’s about the **internal blocks** that prevent effective action.
 
 While we designed an evolved our program at a fortue 500 company, it evolved as more diverse problems were encountered by the plethora of individuals, groups and organizations that became members.
 
 Interestingly, the same issues show up in **personal relationships** and **high-stakes situations** outside of business. Whether it's with partners, colleagues, or even parenting, the inability to navigate **emotions, conflict, and stress** prevents people from staying in balance and thriving keeping outcomes and goals elusive and out of reach.
-
----
 
 ## What We Do
 
@@ -26,8 +24,6 @@ At **Mindset Dojo**, we get to the root of these issues by integrating **knowled
 - **Move through emotional challenges** to act effectively in tough situations.
 - **Turn conflict into insight** that strengthens both professional and personal relationships.
 - **Find internal and external balance**, even as the world around us evolves at an accelerating pace.
-
----
 
 ## Clearing Path For Change
 
@@ -43,8 +39,6 @@ By aligning the **cognitive and emotional systems** of teams, **Mindset Dojo** e
 
 [Take a look at some success cases](https://projects.michael.basil.one/)
 
----
-
 ## Beyond Business: Life Applications
 
 Through this evolution the natural progression led to several successful applications of the principles of **Mindset Dojo** leading to tranformational results in:
@@ -54,8 +48,6 @@ Through this evolution the natural progression led to several successful applica
 - **Parenting**, where the ability to stay grounded and balanced directly influences the well-being of your family.
 
 Regardless of the situation presentation on the surface, our approach helps people move from feeling **overwhelmed and reactive** to becoming **centered, balanced, and proactive**.
-
----
 
 ## The Power of Reflective Practice
 
@@ -67,8 +59,6 @@ Our process is **layered**, building up to written reflection through:
 
 Each layer seeks to **deepen and expand understanding** beyond the conceptual, developing **instinctual reflexes** that you can rely on in critical moments. Through reflection, dialogue, and group learning, we help you bridge the gap between **what you know** and **how you act**—ensuring your insights are ready when you need them.
 
----
-
 ## Written Reflection: Making the Subconscious Conscious
 
 Our experience and research reveals that the biggest blockers and resistance to change are what we are not aware of.  Our method hones in on these impediments and vision gaps through written reflection.  Concretely, we help you connect your **cognitive understanding** with your **emotional state**, making the **subconscious conscious**. 
@@ -78,8 +68,6 @@ This process:
 - Clarifies and resolves what’s holding you back.
 - Builds self-awareness that leads to better decision-making.
 - Strengthens teams, relationships, and your own resilience.
-
----
 
 ## Take the First Step Toward a Well-Trained Mind
 
