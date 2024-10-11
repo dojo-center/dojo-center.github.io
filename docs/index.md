@@ -12,7 +12,7 @@
 
 We created **Mindset Dojo** because we found that while many business leaders and teams **understand strategy**, they often struggle to **execute on it**. It’s not just a matter of knowledge—it’s about the **internal blocks** that prevent effective action.
 
-While we designed our program at a fortue 500 company, it evolved as more diverse problems were encountered by the plethora of individuals, groups and organizations that became members.
+While we designed our program at a fortune 500 company, it evolved as more diverse problems were encountered by the plethora of individuals, groups and organizations that became members.
 
 Interestingly, we found that same root issues show up in **personal relationships** and **high-stakes situations** outside of business. Whether it's with partners, colleagues, or even parenting, the inability to navigate **emotions, conflict, and stress** prevents people from staying in balance and thriving, keeping outcomes and goals elusive and out of reach.
 
@@ -39,7 +39,7 @@ Through our reflective and integrative approach, we:
 - Help individuals and teams **internalize** the principles of Agile and InnerSource, aligning them with their own passion.
 - Overcome the psychological and emotional resistance that often accompanies organizational change.
   
-By aligning the **cognitive and emotional systems** of teams, **Mindset Dojo** enables a smoother transition to new approaches, ensuring that these mindsets become **instinctual and sustainable** within your organization.
+By aligning the **cognitive, social and emotional systems** of teams, **Mindset Dojo** enables a smoother transition to new approaches, ensuring that these mindsets become **instinctual and sustainable** within your organization.
 
 [Take a look at some success cases](https://projects.michael.basil.one/)
 
@@ -47,7 +47,7 @@ By aligning the **cognitive and emotional systems** of teams, **Mindset Dojo** e
 
 ### Beyond Business: Life Applications
 
-Through this evolution the natural progression led to several successful applications of the principles of **Mindset Dojo** leading to tranformational results in:
+Through this evolution the natural progression led to several successful applications of the principles of **Mindset Dojo** realizing tranformational results in:
 
 - **Sticky partner or colleague relationships** where tension or conflict blocks progress.
 - **High-stakes negotiations**, whether between individuals or corporate departments, where emotions run high.
