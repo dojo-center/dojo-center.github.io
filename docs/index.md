@@ -16,7 +16,9 @@ While we designed an evolved our program at a fortue 500 company, it evolved as 
 
 Interestingly, the same issues show up in **personal relationships** and **high-stakes situations** outside of business. Whether it's with partners, colleagues, or even parenting, the inability to navigate **emotions, conflict, and stress** prevents people from staying in balance and thriving keeping outcomes and goals elusive and out of reach.
 
-## What We Do
+---
+
+### What We Do
 
 At **Mindset Dojo**, we get to the root of these issues by integrating **knowledge, emotions, and execution**. Our program is designed to help individuals and teams:
 
@@ -25,7 +27,9 @@ At **Mindset Dojo**, we get to the root of these issues by integrating **knowled
 - **Turn conflict into insight** that strengthens both professional and personal relationships.
 - **Find internal and external balance**, even as the world around us evolves at an accelerating pace.
 
-## Clearing Path For Change
+---
+
+### Clearing Path For Change
 
 Over time we learned that to successfully adopt new mindsets or methodologies, it’s essential to first **envision** the change desired. At **Mindset Dojo**, we help teams and organizations not only build up a **fresh cognitive understanding** of frameworks like **Agile** and **InnerSource**, but also connect these new ideas **emotionally** to their **organizational application** so that strategic initiatives **marry planning with passion to realize profitable outcomes**.
 
@@ -39,7 +43,9 @@ By aligning the **cognitive and emotional systems** of teams, **Mindset Dojo** e
 
 [Take a look at some success cases](https://projects.michael.basil.one/)
 
-## Beyond Business: Life Applications
+---
+
+### Beyond Business: Life Applications
 
 Through this evolution the natural progression led to several successful applications of the principles of **Mindset Dojo** leading to tranformational results in:
 
@@ -49,7 +55,9 @@ Through this evolution the natural progression led to several successful applica
 
 Regardless of the situation presentation on the surface, our approach helps people move from feeling **overwhelmed and reactive** to becoming **centered, balanced, and proactive**.
 
-## The Power of Reflective Practice
+---
+
+### The Power of Reflective Practice
 
 Our process is **layered**, building up to written reflection through:
 
@@ -59,7 +67,9 @@ Our process is **layered**, building up to written reflection through:
 
 Each layer seeks to **deepen and expand understanding** beyond the conceptual, developing **instinctual reflexes** that you can rely on in critical moments. Through reflection, dialogue, and group learning, we help you bridge the gap between **what you know** and **how you act**—ensuring your insights are ready when you need them.
 
-## Written Reflection: Making the Subconscious Conscious
+---
+
+### Written Reflection: Making the Subconscious Conscious
 
 Our experience and research reveals that the biggest blockers and resistance to change are what we are not aware of.  Our method hones in on these impediments and vision gaps through written reflection.  Concretely, we help you connect your **cognitive understanding** with your **emotional state**, making the **subconscious conscious**. 
 
@@ -69,7 +79,9 @@ This process:
 - Builds self-awareness that leads to better decision-making.
 - Strengthens teams, relationships, and your own resilience.
 
-## Take the First Step Toward a Well-Trained Mind
+---
+
+### Take the First Step Toward a Well-Trained Mind
 
 We invite you to take the first step toward cultivating your own **well-trained mind**. Whether you're looking to strengthen your leadership, improve your relationships, or gain clarity in the fast-paced modern world, **Mindset Dojo** offers a proven process for unlocking your potential.
 
