@@ -29,7 +29,7 @@ At **Mindset Dojo**, we get to the root of these issues by integrating **knowled
 
 ---
 
-### Clearing Path For Change
+### Clearing Pathways For Change
 
 Over time we learned that to successfully adopt new mindsets or methodologies, it’s essential to first **envision** the change desired. At **Mindset Dojo**, we help teams and organizations not only build up a **fresh cognitive understanding** of frameworks like **Agile** and **InnerSource**, but also connect these new ideas **emotionally** to their **organizational application** so that strategic initiatives **marry planning with passion to realize profitable outcomes**.
 
