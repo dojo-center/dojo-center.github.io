@@ -51,17 +51,5 @@ At **Mindset Dojo**, we believe that the mind—and by extension, your organizat
 - **Tailored Consulting**: For organizations or complex cases, we offer custom consulting arrangements to address specific challenges with precision.
 - **Mindset Circle**: A private meetup available by invitation only, designed for those ready to immerse themselves in group learning.
 - **Mindset Black Belt Program**: By invitation, this advanced program is for those ready to achieve mastery in **personal and professional development**.
-- **Assessments**: We offer **assessments** for individuals and groups at no additional charge, ensuring the best fit and alignment for your needs.
-
-### Invitation for Engagement
-
-At **Mindset Dojo**, we believe that the mind—and by extension, your organization’s culture—is much like a garden. It requires care, attention, and the right tools to flourish. We invite you to take the next step in cultivating your **well-trained mind** and **thriving culture** with our tailored coaching and consulting packages:
-
-- **Individual Coaching/Consulting**: Choose from **8** or **16 sessions**, designed to help you focus on key areas for growth—think of it as tending to the **weeds** in your mind’s garden.
-- **Small Group Packages**: Our **12-session** packages are ideal for groups seeking transformation together in a collaborative setting.
-- **Tailored Consulting**: For organizations or complex cases, we offer custom consulting arrangements to address specific challenges with precision.
-- **Mindset Circle**: A special program available by invitation only, designed for those ready to immerse themselves in deeper group learning.
-- **Mindset Black Belt Program**: By invitation, this advanced program is for those ready to achieve mastery in **personal and professional development**.
-- **Assessments**: We offer **assessments** for individuals and groups at no additional charge, ensuring the best fit and alignment for your needs.
 
 If our approach resonates, we’d love to explore how we can support your journey. Feel free to [schedule a discovery call today](https://connect.mindset.dojo.center). 🙏🌿
