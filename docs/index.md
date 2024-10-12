@@ -30,10 +30,8 @@ Our methods have proven especially effective in **Agile**, **InnerSource**, **Cl
 
 People are more than **spreadsheets** and **skills matrices**—our focus is on developing the **emotional** and **social intelligence** needed for lasting transformation.
 
-[Explore some of our successful stories here](#).
 
-
-[Take a look at some success cases](https://projects.michael.basil.one/)
+[Explore some of our successful stories here](https://projects.michael.basil.one/)
 
 ---
 
