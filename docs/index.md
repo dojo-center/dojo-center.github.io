@@ -85,6 +85,6 @@ This process:
 
 ---
 
-### Take the First Step Toward a Well-Trained Mind
+### Cultivate Your Well-Trained Mind
 
 The best time to take the first step toward cultivating your own **well-trained mind** is 20 years ago.  The second best time is now!  Whether you're looking to sharpen your leadership, improve relationships, or gain clarity in a world that keeps moving faster we welcome you to [schedule a discovery call](https://connect.mindset.dojo.center/). 🙏🌿
