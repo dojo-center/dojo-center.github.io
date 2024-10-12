@@ -28,7 +28,7 @@ At **Mindset Dojo**, we tackle change by working both **internally** with key in
 
 Our methods have proven especially effective in **Agile**, **InnerSource**, **Cloud**, and **Secure DevSecOps** initiatives, where adaptability and integration are critical.
 
-[Explore some of our successful stories here](https://projects.michael.basil.one/)
+[Explore some of our success cases here](https://projects.michael.basil.one/)
 
 ---
 
