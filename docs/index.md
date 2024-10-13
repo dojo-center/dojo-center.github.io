@@ -50,6 +50,6 @@ At **Mindset Dojo**, we believe that the mind—and by extension, your organizat
 - **Small Group Packages**: Our **12-session** packages are ideal for groups seeking transformation together in a collaborative setting.
 - **Tailored Consulting**: For organizations or complex cases, we offer custom consulting arrangements to address specific challenges with precision.
 - **Mindset Circle**: A private meetup available by invitation only, designed for those ready to immerse themselves in group learning.
-- **Mindset Black Belt Program**: By invitation, this advanced program is for those ready to achieve mastery in **personal and professional development**.
+- **Mindset Black Belt Program**: By invitation, this advanced program is for those ready to pursue mastery in **personal and professional development**.
 
 If our approach resonates, we’d love to explore how we can support your journey. Feel free to [schedule a discovery call today](https://connect.mindset.dojo.center). 🙏🌿
