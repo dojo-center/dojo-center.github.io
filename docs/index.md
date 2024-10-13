@@ -14,9 +14,7 @@ We started **Mindset Dojo** because we found ourselves working with various lead
 
 To successfully implement strategies, we had to **identify** and **resolve** these internal barriers within leaders and key team members. Using **structured methods** designed to address emotional and relational dynamics, we not only improved execution but also **enhanced team culture**, creating a foundation for long-term success.
 
-As we addressed these barriers and the dojo evolved, we found that people began integrating these same tools and skills in their **personal lives**.
-
-We are inspired by our community members' growth. As they develop greater **inner balance**, they also learn to navigate **high-stakes, conflict-driven, and chaotic situations**. Through integrating the **emotional** and **social intelligence** gained from our methods, they begin to demonstrate **increasing levels of excellence** that **transcend boundaries**.
+As we addressed these barriers, something unexpected happened—our community members began applying these tools in their **personal lives**, finding new **inner balance** and navigating **high-stakes situations** with greater ease. This unanticipated growth has not only inspired us but has also deepened the impact of the program, helping our members demonstrate **excellence** that **reaches new heights** through their enhanced **emotional** and **social intelligence**.
 
 ---
 
