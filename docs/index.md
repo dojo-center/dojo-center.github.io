@@ -36,7 +36,7 @@ One of the unexpected benefits we’ve seen is how our community members apply t
 
 Our methods empower people to approach **high-conflict / stagnant situations** with **centeredness**, turning avoidance / adversity with friends, family, or former partners into opportunities to **restore trust**. This leads to a sense of **calm** when dealing with **divergent perspectives**.
 
-By expanding their worldview, members not only gain a deeper understanding of **politics**, **different generations**, and **diverse groups**, but they also find themselves **elevating their social status** in various circles.
+By expanding their worldview, members not only gain a deeper understanding of **charged conversations**, **different generations**, and **diverse groups**, but they also find themselves **elevating their social status** in various circles.
 
 ---
 
