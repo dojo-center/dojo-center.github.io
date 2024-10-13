@@ -24,7 +24,7 @@ Many strategies falter due to the **fundamental challenge of change**. Plans and
 
 At **Mindset Dojo**, we tackle change by working both **internally** with key individuals and **socially** across teams. We create **learning and collaboration zones** to help teams navigate complex dynamics and evolve in real time.
 
-Our methods have proven especially effective in **Agile**, **InnerSource**, **Cloud**, and **Secure DevOps** initiatives, where adaptability and integration are critical.
+Our methods have proven especially effective in **Corporate Environments**, **Leadership Circles**, **Agile**, **InnerSource**, **Cloud**, and **Secure DevOps** initiatives, where adaptability and integration are critical.
 
 [Explore some of our success cases here](https://projects.michael.basil.one/)
 
