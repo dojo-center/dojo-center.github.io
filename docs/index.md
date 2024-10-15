@@ -12,7 +12,7 @@
 
 We started Mindset Dojo because we found that leaders from Fortune 500 companies (among other smaller and medium sized businesses) were all confronting the same issues with themselves and their teams—it was easy to get a “yes” to an idea but not to get reasonable execution of that idea, and that resulted in revenue and culture issues that often cost key performers and sleepless nights. 
 
-We found that if we created an understanding of the decision making process, and the role of emotions in it--  we needed to create the space to make deeply informed decisions, with full emotional commitment from leaders and from teams, which resulted in a far better chance of success in the short term, and a 100% chance of learning in the long-term, that affected tenure of employees, improved culture, and made revenue generating ideas efficient and passionately executed.
+We found that understanding the decision-making process and the role of emotions in it was essential. By creating the space for deeply informed decisions, with full emotional commitment from both leaders and teams, the chances of short-term success significantly improved. This approach also guaranteed long-term learning, which positively impacted employee retention, enhanced culture, and led to the efficient and passionate execution of revenue-generating ideas.
 
 ---
 
