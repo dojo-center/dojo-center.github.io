@@ -20,7 +20,7 @@ We found that understanding the decision-making process and the role of emotions
 
 Many strategies stumble in the face of daily operational pressures. Plans and mandates often fail when they aren’t supported by a clear approach to handling change at both the internal (personal) and team levels.
 
-At Mindset Dojo, we focus on sustainable change by addressing both the internal world of the individual, the social dynamics of the team, and the optimization of decisions for efficient execution and results on teams.  We create learning and collaboration zones, empowering teams to engage with complexity, adapt in real time, and develop resilience. This allows them to thrive through change, rather than be overwhelmed by it.
+At Mindset Dojo, we focus on sustainable change by addressing the intersection of the internal world of the individual, the social dynamics of the team, and the optimization of decisions for efficient execution and results on teams.  We create learning and collaboration zones, empowering teams to engage with complexity, adapt in real time, and develop resilience. This allows them to thrive through change, rather than be overwhelmed by it.
 
 Our methods have been especially effective in corporate environments, leadership circles, Agile practices, InnerSource, Cloud, and Secure DevOps initiatives, where adaptability and integrative thinking are essential for success.
 
