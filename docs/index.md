@@ -10,21 +10,19 @@
 
 ## Balance Within, Excellence Beyond
 
-We started **Mindset Dojo** because we found ourselves partnering with leaders from Fortune 500 companies, enterprises, and small to medium-sized businesses, all confronting the same core issue—**execution and sustainability** of key strategies. As we worked together, one thing became clear: **internal blocks** were hindering progress.
+We started Mindset Dojo because we found that leaders from Fortune 500 companies (among other smaller and medium sized businesses) were all confronting the same issues with themselves and their teams—it was easy to get a “yes” to an idea but not to get reasonable execution of that idea, and that resulted in revenue and culture issues that often cost key performers and sleepless nights. 
 
-To implement strategies successfully, we had to dive deeper—**identifying and resolving the internal barriers** within leaders and key team members. Through structured methods that address **emotional and relational dynamics**, we didn’t just unlock better execution; we helped leaders and teams build cultures grounded in trust and resilience, creating the foundation for **long-term success**.
-
-An unexpected and powerful shift began to occur: as we addressed these internal barriers in the workplace, our community members started applying the same tools in their **personal lives**, achieving newfound **inner balance** and navigating high-stakes situations with confidence and ease. This unanticipated growth has enriched our work, helping members reach **new heights of excellence** by integrating **emotional and social intelligence** into every aspect of their lives.
+We found that if we created an understanding of the decision making process, and the role of emotions in it--  we needed to create the space to make deeply informed decisions, with full emotional commitment from leaders and from teams, which resulted in a far better chance of success in the short term, and a 100% chance of learning in the long-term, that affected tenure of employees, improved culture, and made revenue generating ideas efficient and passionately executed.
 
 ---
 
 ### Pathways For Change
 
-Many strategies stumble in the face of **daily operational pressures**. Plans and mandates often fail when they aren't supported by a clear approach to handling change at both the **internal** and **team** levels.
+Many strategies stumble in the face of daily operational pressures. Plans and mandates often fail when they aren’t supported by a clear approach to handling change at both the internal (personal) and team levels.
 
-At **Mindset Dojo**, we focus on **sustainable change** by addressing both the **internal world of the individual** and the **social dynamics of teams**. We create **learning and collaboration zones**, empowering teams to engage with complexity, adapt in real time, and develop resilience. This allows them to **thrive through change**, rather than be overwhelmed by it.
+At Mindset Dojo, we focus on sustainable change by addressing both the internal world of the individual, the social dynamics of the team, and the optimization of decisions for efficient execution and results on teams.  We create learning and collaboration zones, empowering teams to engage with complexity, adapt in real time, and develop resilience. This allows them to thrive through change, rather than be overwhelmed by it.
 
-Our methods have been especially effective in **Corporate Environments, Leadership Circles, Agile practices, InnerSource, Cloud, and Secure DevOps initiatives**, where adaptability and **integrative thinking** are essential for success.
+Our methods have been especially effective in corporate environments, leadership circles, Agile practices, InnerSource, Cloud, and Secure DevOps initiatives, where adaptability and integrative thinking are essential for success.
 
 [Explore some of our success cases here](https://projects.michael.basil.one/)
 
@@ -32,11 +30,11 @@ Our methods have been especially effective in **Corporate Environments, Leadersh
 
 ### Beyond Business, Life Integration
 
-One of the most rewarding outcomes of our work is how our members apply these skills to improve their **personal lives**. The same tools that empower corporate leaders to execute strategies and lead teams with confidence are being used to help parents navigate the complexities of raising children, manage high-conflict personal relationships, and restore trust in strained friendships.
+It’s been our experience that this type of understanding of intentionality combined with emotional understanding and intellectual integration doesn’t only improve one’s business needs, or the needs of their team—it improves their outcomes in their personal lives.
 
-These methods help individuals approach **challenging conversations** and high-stakes situations from a place of **centeredness and clarity**. What once felt like conflict or adversity is transformed into an **opportunity** to restore trust, deepen understanding, and foster genuine connection. This shift leads to a **calm and steady presence**, even when faced with divergent perspectives or emotionally charged interactions.
+The same tools that empower corporate leaders to execute strategies and lead teams with confidence are being used to help parents navigate the complexities of raising children, manage high-conflict personal relationships, and restore trust in strained friendships.
 
-By expanding their worldviews and understanding the dynamics of emotions, different generations, and diverse groups, our members naturally elevate their **social status** in both professional and personal circles. They emerge as **trusted leaders**, not just in the boardroom, but also in their communities and families.
+These methods help individuals approach challenging conversations and high-stakes situations from a place of centeredness and clarity. What once felt like conflict or adversity is transformed into an opportunity to restore trust, deepen understanding, and foster genuine connection. This shift leads to a calm and steady presence, even when faced with divergent perspectives or emotionally charged interactions.
 
 ---
 
