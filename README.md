@@ -4,7 +4,7 @@ Balance Within, Excellance Beyond
 
 ## Enter
 
-* <https://mindset.dojo.center>
+* <https://dojo.center>
 
 ## Attribution
 
