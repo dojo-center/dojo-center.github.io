@@ -25,25 +25,15 @@ For leaders and organizations facing unique challenges, our **custom consulting 
 
 ### **Mindset Black Belt Program: 7 Levels of Mastery**
 
-**Master emotions, conflict, and systems intelligence when it matters most.**
+**Beyond tasks and outputs, there are outcomes—but what truly matters is **Impact**. 
 
-In the **Mindset Black Belt Program**, we integrate emotional intelligence, conflict mastery, and **systems thinking** to help you thrive personally and professionally. By applying the **Be-Do-Have** framework, this program enables you to grow your leadership capacity and scale your influence across personal, social, and organizational systems.
+In the **Mindset Black Belt Program**, we focus on mastering emotions, conflict, and systems intelligence when it matters most. By integrating these skills, you'll thrive personally and professionally. This unlocks continuous evolution as a leader and scales your influence across personal, social, and organizational systems even as they continue to change.
 
-#### Be: Become Masterful with Emotions, Conflict, and Systems
+It begins with **Becoming Masterful**—not only in understanding your own emotions but also in recognizing and navigating the emotions and emotional intelligence of others. You'll see how emotional dynamics play out in relationships, teams, and organizations, developing both emotional wisdom and systems intelligence to handle complexity and change with confidence.
 
-- **Be Masterful** by understanding your emotions and how they influence the broader systems—whether in your relationships, teams, or organization.
-- Develop emotional wisdom and systems intelligence to navigate complexity and change with confidence.
+Next, it’s about **Showing Up** with wise, human-focused, systems-aware decisions. You’ll learn to make informed choices that align with both immediate needs and the broader systems you're part of. Systems thinking allows you to see the long-term impact of your actions, helping you lead with clarity and foresight in complex situations.
 
-#### Do: Show Up with Wise, Systems-Aware Decisions
-
-- **Do the Work** of making informed decisions that align with both your immediate needs and the broader systems you interact with.
-- Lead with clarity and foresight, understanding how your actions influence not only those around you but the larger organizational dynamics at play.
-
-#### Have: Build Trust, Achieve Balance, and Scale Impact
-
-- **Have Trust Build** in relationships and organizations by fostering transparency, collaboration, and an understanding of interconnected systems.
-- **Have Inner Balance Increase** as you align personal growth with professional objectives and navigate both personal and organizational dynamics.
-- Scale your mastery beyond personal success into leadership that impacts social and organizational systems, driving sustainable growth and success.
+Finally, you’ll **Build Trust, Achieve Balance**, and **Scale Your Impact**. By fostering transparency, collaboration, and a deep understanding of interconnected relationships, trust will naturally grow in both personal and professional settings. You’ll also experience greater inner balance as your personal growth aligns with professional objectives, leading to leadership that creates lasting, sustainable success across social and organizational systems.
 
 ---
 
