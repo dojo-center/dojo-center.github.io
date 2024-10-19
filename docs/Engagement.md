@@ -5,7 +5,9 @@ layout: page
 
 At **Mindset Dojo**, we believe true personal and organizational transformation comes from mastering both the internal and external dynamics that shape our decisions, relationships, and leadership. Whether you’re an individual seeking clarity or a leader guiding a team, emotional and conflict mastery fuels continuous evolution. We offer tailored coaching and consulting that unlocks new levels of performance, trust, and resilience.
 
-### Foundation and Fine-Tuning 
+### Foundation and Fine-Tuning
+
+...
 
 #### Individual Sessions
 
@@ -21,44 +23,36 @@ For leaders and organizations facing specific challenges, our **custom consultin
 
 ---
 
-### **Mindset Black Belt Program: 7 Levels of Mastery**
+### Mindset Black Belt Program: 7 Levels of Mastery
 
 **Master emotions, conflict, and systems intelligence when it matters most.**
 
 In the **Mindset Black Belt Program**, we blend emotional intelligence, conflict mastery, and **systems thinking** to help you evolve personally and professionally. By integrating the **Be-Do-Have** framework, this program empowers you to scale your impact across social and organizational systems.
 
-#### **Be**: **Become Masterful with Emotions, Conflict, and Systems**
+#### Be: Become Masterful with Emotions, Conflict, and Systems
 
 - **Be Masterful** by understanding your emotions and how they influence the broader systems around you—whether in teams, relationships, or organizations.
 - Develop **Systems Intelligence** to recognize the interconnections between your actions and their ripple effects within these systems.
 - Cultivate emotional wisdom to navigate complexity and change with confidence.
 
-#### **Do**: **Show Up with Wise, Systems-Aware Decisions**
+#### Do: Show Up with Wise, Systems-Aware Decisions
 
 - **Do the Work** of making wise decisions that consider both immediate needs and the broader social and organizational systems you operate within.
 - Apply **systems thinking** to navigate team dynamics, cultural shifts, and organizational challenges, ensuring alignment between short-term actions and long-term impacts.
 - Lead with clarity and foresight, showing up as a systems-aware leader who thrives in complexity.
 
-#### **Have**: **Build Trust, Create Balance, and Scale Impact**
+#### Have: Trust Build, Increased Balance, and Scaled Impact
 
 - **Have Trust Build** across relationships and organizations by fostering transparency, collaboration, and systems-wide understanding.
 - **Have Balance Within and Across Systems**, aligning personal growth with organizational objectives and social dynamics.
 - Scale your mastery beyond personal success into influencing and optimizing **organizational and social systems**, driving sustainable growth and impact.
 
-#### **Achieve Transformative Results with Systems Intelligence**:
-
-- **Decision Wisdom**: Make decisions that account for both individual and organizational systems.
-- **Relationship Trust**: Strengthen relationships by understanding emotional and social interconnections.
-- **Internal Balance**: Maintain emotional resilience and systems awareness, even under pressure.
-- **Culture Health**: Elevate team dynamics and organizational culture through systems-informed leadership.
-- **Passion Alignment**: Align personal passions with organizational goals by inspiring collaboration.
-- **Execution Excellence**: Drive impactful execution by influencing outcomes and influencing collaboration.
-- **Negotiation Mastery**: Navigate complex negotiations with systems insight and emotional intelligence.
-
 ---
 
-### Ready to Scale Your Mastery?
+### **Let’s Connect**
 
-Our engagements empower you to master emotions, conflict, and systems intelligence, scaling your personal and professional impact across social and organizational systems. 
+We’d love to learn more about where you are on your journey and how we can support your growth.
 
-**[Schedule a discovery call](https://connect.mindset.dojo.center)** and begin mastering the systems that shape your success today. 🙏🌿
+**Let’s connect** and explore how we can work together to help you reach new levels of mastery and impact.
+
+**[Schedule a discovery call](https://connect.mindset.dojo.center)**, and let’s start a conversation about what’s possible. 🙏🌿
