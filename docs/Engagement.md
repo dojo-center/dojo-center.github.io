@@ -25,7 +25,7 @@ For leaders and organizations facing unique challenges, our **custom consulting 
 
 ### **Mindset Black Belt Program: 7 Levels of Mastery**
 
-**Beyond tasks and outputs, there are outcomes—but what truly matters is **Impact**. 
+Beyond tasks and outputs, there are outcomes—but what truly matters is **Impact**. 
 
 In the **Mindset Black Belt Program**, we focus on mastering emotions, conflict, and systems intelligence when it matters most. By integrating these skills, you'll thrive personally and professionally. This unlocks continuous evolution as a leader and scales your influence across personal, social, and organizational systems even as they continue to change.
 
