@@ -3,9 +3,11 @@ title: 'Cultivate Mastery, Elevate Your Impact'
 layout: page
 ---
 
-At **Mindset Dojo**, we believe true personal and organizational transformation comes from mastering both internal and external dynamics that shape our decisions, relationships, and leadership. Whether you’re an individual seeking clarity or a leader guiding a team, emotional and conflict mastery fuels continuous growth. We offer tailored coaching and consulting that unlock new levels of performance, trust, and resilience.
+At **Mindset Dojo**, we believe true personal and organizational transformation comes from mastering both internal and external dynamics that shape our decisions, relationships, and leadership. Whether you’re an individual seeking clarity or a leader guiding a team, emotional and conflict mastery fuels continuous evolution. We offer tailored coaching and consulting that unlock new levels of performance, trust, and resilience.
 
 ### Foundation and Fine-Tuning
+
+...
 
 #### Individual Sessions
 
