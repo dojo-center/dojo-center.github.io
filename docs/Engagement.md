@@ -51,8 +51,8 @@ In the **Mindset Black Belt Program**, we blend emotional intelligence, conflict
 - **Relationship Trust**: Strengthen relationships by understanding emotional and social interconnections.
 - **Internal Balance**: Maintain emotional resilience and systems awareness, even under pressure.
 - **Culture Health**: Elevate team dynamics and organizational culture through systems-informed leadership.
-- **Passion Alignment**: Align personal passions with organizational and social goals.
-- **Execution Excellence**: Drive efficient, impactful execution across interconnected systems.
+- **Passion Alignment**: Align personal passions with organizational goals by influencing and inspiring collaboration.
+- **Execution Excellence**: Drive impactful execution by influencing outcomes and inviting collaboration across systems.
 - **Negotiation Mastery**: Navigate complex negotiations with systems insight and emotional intelligence.
 
 ---
