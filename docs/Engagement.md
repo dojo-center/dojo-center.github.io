@@ -3,23 +3,19 @@ title: 'Cultivate Mastery, Elevate Your Impact'
 layout: page
 ---
 
-At **Mindset Dojo**, we believe true personal and organizational transformation comes from mastering both internal and external dynamics that shape our decisions, relationships, and leadership. Whether you’re an individual seeking clarity or a leader guiding a team, emotional and conflict mastery fuels continuous evolution. We offer tailored coaching and consulting that unlock new levels of performance, trust, and resilience.
+At **Mindset Dojo**, we believe that true transformation—both personal and organizational—comes from mastering the internal and external dynamics that influence decisions, relationships, and leadership. Whether you’re seeking clarity as an individual or leading a team through change, emotional and conflict mastery drives continuous evolution. We offer tailored coaching and consulting services designed to unlock new levels of performance, trust, and resilience.
 
 ### Foundation and Fine-Tuning
 
-...
+We provide personalized pathways for growth, whether you're looking to overcome internal barriers, improve team dynamics, or navigate organizational change.
 
-#### Individual Sessions
+- **Individual Sessions**: Our 8- and 16-session packages help you overcome internal barriers and turn challenges into growth opportunities—especially under pressure.
 
-Focus on **Decision Wisdom**, **Internal Balance**, and **Relationship Trust** with 8 or 16 session packages, designed to help you overcome internal barriers and cultivate emotional and conflict mastery. This is your opportunity to turn personal challenges into pathways for growth, especially when under pressure.
+- **Small Group Sessions**: A 12-session package that helps teams navigate conflict, change, and formation leading to alignment with high-impact outcomes.
 
-#### Small Group Sessions
+- **Tailored / Fractional Consulting**: For leaders and organizations facing unique challenges, our custom consulting packages provide targeted solutions for transforming organizational culture, resolving team conflicts, or enhancing transitions.
 
-For teams or groups navigating **conflict**, **change**, or **collaboration**, our 12-session package fosters emotional intelligence and conflict resolution in a supportive, collaborative environment. Learn how to cultivate **Culture Health** and align team dynamics for high-impact results and sustainable success.
-
-#### Tailored / Fractional Consulting
-
-For leaders and organizations facing unique challenges, our **custom consulting packages** provide targeted solutions. Whether you need to transform organizational culture, resolve team conflicts, or guide your organization through transitions, our consulting delivers sustainable change through personalized strategies, emotional intelligence, and an understanding of your organization’s interconnected systems.
+[Explore some of our success cases here](https://projects.michael.basil.one/)
 
 ---
 
