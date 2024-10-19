@@ -1,9 +1,7 @@
 ---
-title: 'Engagement'
+title: 'Cultivate Mastery, Elevate Your Impact'
 layout: page
 ---
-
-## Cultivate Mastery, Elevate Your Impact
 
 At **Mindset Dojo**, we believe true personal and organizational transformation comes from mastering both the internal and external dynamics that shape our decisions, relationships, and leadership. Whether you’re an individual seeking clarity or a leader guiding a team, emotional and conflict mastery fuels continuous evolution. We offer tailored coaching and consulting that unlocks new levels of performance, trust, and resilience.
 
@@ -23,7 +21,7 @@ For leaders and organizations facing specific challenges, our **custom consultin
 
 ---
 
-### **Mindset Black Belt Program: 7 Steps to Emotional and Conflict Mastery**
+### **Mindset Black Belt Program: 7 Levels of Mastery**
 
 **Master emotions, conflict, and systems intelligence when it matters most.**
 
