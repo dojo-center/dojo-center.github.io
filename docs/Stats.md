@@ -3,6 +3,12 @@ layout: page
 title:
 ---
 
+<!-- Debugging: Output the mindset belt for each member -->
+{% for member in site.data.members %}
+  <p>Member {{ member.name }} mindset belt: {{ member.belts.mindset }}</p>
+{% endfor %}
+
+
 <!-- Step 1: Initialize variables for each belt level -->
 {% assign white_total = 0 %}
 {% assign yellow_total = 0 %}
@@ -13,9 +19,10 @@ title:
 {% assign red_total = 0 %}
 {% assign black_total = 0 %}
 
-<!-- Step 2: Loop through members and access the nested belts structure -->
+<!-- Step 2: Loop through members and access the mindset belt -->
 {% for member in site.data.members %}
   {% if member.belts.mindset %}
+    <!-- Check the mindset belt value and increment the correct total -->
     {% case member.belts.mindset %}
       {% when "white" %}
         {% assign white_total = white_total | plus: 1 %}
@@ -34,6 +41,8 @@ title:
       {% when "black" %}
         {% assign black_total = black_total | plus: 1 %}
     {% endcase %}
+  {% else %}
+    <p>Member {{ member.name }} does not have a mindset belt assigned.</p>
   {% endif %}
 {% endfor %}
 
@@ -46,6 +55,7 @@ title:
 <p>Brown belts: {{ brown_total }}</p>
 <p>Red belts: {{ red_total }}</p>
 <p>Black belts: {{ black_total }}</p>
+
 
 
 
