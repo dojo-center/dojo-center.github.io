@@ -34,6 +34,6 @@ To ensure these transformations are real and lasting, our program isn’t just t
 
 ### **Let’s Connect on the Mat!**
 
-Transformation flows one conversation at a time. We’d love to connect with you to learn more about where you are on your journey. With good synergy, we’d be happy to tour our offerings and explore the conversational mat together.
+Transformation flows one conversation at a time. We’d love to connect with you to learn more about where you are on your journey. We're happy to tour our offerings and explore the mat together.
 
 **[Schedule a tour (discovery call)](https://connect.mindset.dojo.center)** to start a conversation about new possibilities. 🙏🌿
