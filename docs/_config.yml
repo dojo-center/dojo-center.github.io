@@ -34,8 +34,6 @@ domains:
 community:
   - link: Members
     icon: users
-  - link: Stats
-    icon: pie-chart
 
 plugins:
   - jekyll-feed
