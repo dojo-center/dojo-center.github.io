@@ -25,7 +25,7 @@ We provide personalized pathways for growth, whether you're looking to overcome 
 
 Beyond tasks and outputs, there are outcomes—but what truly matters is **Impact**.
 
-In the **Mindset Black Belt Program**, members progress through **7 steps of mastery**, advancing from white belt to black belt as they build skills in **emotional intelligence, conflict resolution, and systems thinking**. By integrating these skills, you'll thrive personally and professionally, unlocking continuous evolution as a leader and scaling your influence across personal, social, and organizational systems.
+In the **Mindset Black Belt Program**, members progress through **7 steps of mastery**, advancing from white belt to black belt as they build skills in **emotional intelligence, conflict as insight, and systems thinking**. By integrating these skills, you'll thrive personally and professionally, unlocking continuous evolution as a leader and scaling your influence across personal, social, and organizational systems.
 
 To ensure these transformations are real and lasting, our program isn’t just themed as a dojo—it mirrors the **high level of interactivity** found in one. We combine **targeted micro-learning**, **Mindset Circle meetups**, and solo, partner, and group reflection with **guided conversational practice**. This hands-on approach pressure-tests and nourishes what is learned, ensuring the experience is dynamic, engaging, and far beyond just text on a page.
 
