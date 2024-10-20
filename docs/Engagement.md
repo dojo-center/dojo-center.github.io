@@ -9,11 +9,14 @@ At **Mindset Dojo**, we believe that true transformation—both personal and org
 
 ### Foundation and Fine-Tuning
 
-- **Individual Sessions**: Our 8- and 16-session packages help you overcome internal barriers and turn challenges into growth opportunities—especially under pressure.
+- **Individual Sessions**
+  - Our 8- and 16-session packages help you overcome internal barriers and turn challenges into growth opportunities—especially under pressure.
 
-- **Small Group Sessions**: A 12-session package that helps teams navigate conflict, change, and formation leading to alignment with high-impact outcomes.
+- **Small Group Sessions**
+  - A 12-session package that helps teams navigate conflict, change, and formation leading to alignment with high-impact outcomes.
 
-- **Tailored / Fractional Consulting**: For leaders and organizations facing unique challenges, our custom consulting packages provide targeted solutions for transforming organizational culture, resolving team conflicts, or enhancing transitions.
+- **Tailored / Fractional Consulting**
+  - For leaders and organizations facing unique challenges, our custom consulting packages provide targeted solutions for transforming organizational culture, resolving team conflicts, or enhancing transitions.
 
 [Explore some of our success cases here](https://projects.michael.basil.one/)
 
