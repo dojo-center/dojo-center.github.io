@@ -44,7 +44,7 @@ layout: page
     <li>{{ guidance }}</li>
     {% endfor %}
 </ul>
-<div class="table-responsive">
+<div>
     {% for movement in curriculumLevel.movements %}
     {% if movement.type %}
         {% capture movement_type %}fa-{{ movement.type | downcase }}{% endcapture %}
