@@ -13,10 +13,10 @@ title:
 {% assign red_total = 0 %}
 {% assign black_total = 0 %}
 
-<!-- Step 2: Loop through members and their belts, increment the correct belt count -->
+<!-- Step 2: Loop through members and access the nested belts structure -->
 {% for member in site.data.members %}
-  {% for belt in member.belts %}
-    {% case belt %}
+  {% if member.belts.mindset %}
+    {% case member.belts.mindset %}
       {% when "white" %}
         {% assign white_total = white_total | plus: 1 %}
       {% when "yellow" %}
@@ -34,7 +34,7 @@ title:
       {% when "black" %}
         {% assign black_total = black_total | plus: 1 %}
     {% endcase %}
-  {% endfor %}
+  {% endif %}
 {% endfor %}
 
 <!-- Step 3: Output the final totals for each belt -->
