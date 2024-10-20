@@ -31,39 +31,11 @@ beltLevels:
 domains:
   - Mindset
 
-circles:
-  - label: Dojo Circle
-    url: https://circle.dojo.center
-    times: 
-      - Fridays at 8 AM CT (13:00 UTC / 14:00 UTC)
-
-sensei:
-  - label: Michael Basil 
-    url: https://www.linkedin.com/in/michaelrbasil
-    details:
-      - Regular attendee of Friday Dojo Circle
-      - Available for open networking conversations
-      - Private coaching / consultation inquiries welcome
-  - label: Bill Westfall 
-    url: https://www.linkedin.com/in/bill-westfall-3268494
-    details:
-      - Regular attendee of Friday Dojo Circle
-
 community:
   - link: Members
     icon: users
   - link: Stats
     icon: pie-chart
-
-# Blog settings
-show_excerpts: false
-
-# URL settings
-homeUrl: "https://dojo.center"
-feedbackUrl: "https://github.com/dojo-center/dojo-center.github.io/issues/new"
-
-repository: "dojo-center/dojo-center.github.io"
-repositoryUrl: "https://github.com/dojo-center/dojo-center.github.io"
 
 plugins:
   - jekyll-feed
