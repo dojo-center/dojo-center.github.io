@@ -36,23 +36,13 @@ datatable: true
                             {% assign beltColor = item[1] %}
                             {% endif %}
                         {% endfor %}
-                        {% case beltColor %}
-                            {% when "black" %}
-                                {% assign beltValue = 4 %}
-                            {% when "red" %}
-                                {% assign beltValue = 3 %}
-                            {% when "green" %}
-                                {% assign beltValue = 2 %}
-                            {% when "white" %}
-                                {% assign beltValue = 1 %}
-                            {% else %}
-                                {% assign beltValue = 0 %}
-                        {% endcase %}
-                        {% if beltValue > 0 %}
-                            <td class="text-center" data-search="{{ beltColor }}" data-sort="{{ beltValue }}"><img class="mx-auto d-block" src="images/belt-{{ beltColor }}.png" height="30" /></td>
-                        {% else %}
-                            <td class="text-center" data-search="{{ beltColor }}" data-sort="{{ beltValue }}"><img class="mx-auto d-block" src="" height="30" /></td>
+                        
+                        {% assign beltValue = site.beltLevels | map: "value" | index: beltColor %}
+                        {% if beltValue == nil %}
+                            {% assign beltValue = -1 %}
                         {% endif %}
+
+                        <td class="text-center" data-search="{{ beltColor }}" data-sort="{{ beltValue }}"><img class="mx-auto d-block" src="images/belt-{{ beltColor }}.png" height="30" /></td>
                     {% endfor %}
                 </tr>
             {% endfor %}
