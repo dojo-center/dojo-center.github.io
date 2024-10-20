@@ -13,7 +13,8 @@ curriculum:
   - level: white
     label: White level - Orientation
     guidance:
-      - TBD
+      - Meet with a Sensei to go over your intention and receive tailored instruction on proceeding
+      - Attend a community call and introduce yourself
     movements:
       - label: How to Start a Movement
         link: https://www.ted.com/talks/derek_sivers_how_to_start_a_movement
@@ -21,7 +22,11 @@ curriculum:
   - level: yellow
     label: Yellow level - Systems Thinking
     guidance:
-      - TBD
+      - Meet with a sensei to go over your intention and receive tailored instruction on proceeding
+      - As you complete the movements as instructed ensure you reflect on your experience at community calls
+      - Attend a minimum of 3 community calls applying what you have learned in targeted spots
+      - Prepare a written reflection as per guided by a sensei
+      - When you and the sensei are in alignment bring the reflection to a community call for integration testing
     movements:
       - label: Adult Learns to Ride a Bicycle for the First Time!
         link: https://www.youtube.com/watch?v=ELW3CgR-DW4
@@ -44,7 +49,11 @@ curriculum:
   - level: green
     label: Green level - Perception
     guidance:
-      - TBD
+      - Meet with a sensei to go over your intention and receive tailored instruction on proceeding
+      - As you complete the movements as instructed ensure you reflect on your experience at community calls
+      - Attend a minimum of 3 community calls applying what you have learned in targeted spots
+      - Prepare a written reflection as per guided by a sensei
+      - When you and the sensei are in alignment bring the reflection to a community call for integration testing
     movements:
       - label: Bias - Duck Rabbit - Amy Krause
         link: https://www.youtube.com/watch?v=36AqMX5uua4
@@ -67,7 +76,11 @@ curriculum:
   - level: blue
     label: Blue level - Emotional Intelligence
     guidance:
-      - TBD
+      - Meet with a sensei to go over your intention and receive tailored instruction on proceeding
+      - As you complete the movements as instructed ensure you reflect on your experience at community calls
+      - Attend a minimum of 3 community calls applying what you have learned in targeted spots
+      - Prepare a written reflection as per guided by a sensei
+      - When you and the sensei are in alignment bring the reflection to a community call for integration testing
     movements:
       - label: Agile Mental Model (Karpman Awareness Triangle)
         link: https://agile-od.com/mental-model-dojo/karpmans-drama-triangle
@@ -81,7 +94,13 @@ curriculum:
   - level: purple
     label: Purple level - Motivation
     guidance:
-      - TBD
+      - Meet with a sensei to go over your intention and receive tailored instruction on proceeding
+      - As you complete the movements as instructed ensure you reflect on your experience at community calls
+      - Meet with a sensei halfway through the materials
+      - Attend a minimum of 5 community calls applying what you have learned in targeted spots
+      - Lead a minimum of 2 community calls applying what you have learned in targeted spots while keeping some awareness on the group
+      - Prepare a written reflection as per guided by a sensei
+      - When you and the sensei are in alignment bring the reflection to a community call for integration testing
     movements:
       - label: The Goal Video - Boy Scout Hike
         link: https://www.youtube.com/watch?v=Heesxgrl-cM
@@ -104,7 +123,13 @@ curriculum:
   - level: brown
     label: Brown level - Energy Balance
     guidance:
-      - TBD
+      - Meet with a sensei to go over your intention and receive tailored instruction on proceeding
+      - As you complete the movements as instructed ensure you reflect on your experience at community calls
+      - Meet with a sensei once you are ready for the Focused Energy Balance Indicator (FEBI) assessment
+      - Attend a minimum of 5 community calls applying what you have learned in targeted spots
+      - Lead a minimum of 2 community calls applying what you have learned in targeted spots while keeping some awareness on the group
+      - Prepare a written reflection as per guided by a sensei
+      - When you and the sensei are in alignment bring the reflection to a community call for integration testing
     movements:
       - label: 4th-Person Knowing - A New, Old Way For Leadership Insight
         link: https://www.forbes.com/sites/ginnywhitelaw/2024/07/01/4th-person-knowing-a-new-old-way-for-leadership-insight
@@ -115,13 +140,18 @@ curriculum:
       - label: Infographic - 10 Essential Flips of Zen Leadership
         link: https://cdn.dirigible.studio/wp-content/uploads/sites/24/2021/09/04073619/TZL-graphic-izl.pdf
         type: file-pdf-o
-      - label: The Zen Leader - FEBI
+      - label: The Zen Leader - Focused Energy Balance Indicator (FEBI)
         link: https://zenleader.global/febi-offerings/
         type: lightbulb-o
   - level: red
     label: Red level - Negotiation
     guidance:
-      - TBD
+      - Meet with a sensei to go over your intention and receive tailored instruction on proceeding
+      - Meet with a sensei to discuss how it is going as you start using the negotiation techniques in your social circles 
+      - Attend a minimum of 5 community calls applying what you have learned in targeted spots
+      - Lead a minimum of 2 community calls applying what you have learned in targeted spots while keeping some awareness on the group
+      - Prepare a written reflection as per guided by a sensei
+      - When you and the sensei are in alignment bring the reflection to a community call for integration testing
     movements:
       - label: Never Split The Difference - Chris Voss
         link: https://www.youtube.com/watch?v=MjhDkNmtjy0
@@ -132,7 +162,15 @@ curriculum:
   - level: black
     label: Black level - Metaphor
     guidance:
-      - TBD
+      - Meet with a sensei to go over your intention and receive tailored instruction on proceeding
+      - Meet with a sensei to discuss how it is going as you start becoming more aware of metaphors in play in your social circles
+      - Meet with a sensei to discuss how it is going as you start offering reframing of metaphors in play in your social circles
+      - Meet with a sensei to discuss how it is going as you start blending metaphorical reframe with negotiation moves in your social circles
+      - Meet with a sensei to discuss how it is going as you start blending all of what you have learned in your social circles
+      - Attend a minimum of 15 community calls applying what you have learned fluidly
+      - Lead a minimum of 5 community calls applying what you have learned fluidly
+      - Prepare a written reflection as per guided by a sensei
+      - When you and the sensei are in alignment bring the reflection to a community call for integration testing
     movements:
       - label: Metaphors We Live By - George Lakoff and Mark Johnson
         link: https://www.youtube.com/watch?v=lYcQcwUfo8c
