@@ -5,6 +5,8 @@ layout: page
 
 At **Mindset Dojo**, we believe that true transformation—both personal and organizational—comes from mastering the internal and external dynamics that influence decisions, relationships, and leadership. Whether you’re seeking clarity as an individual or leading a team through change, emotional and conflict mastery drives continuous evolution. We offer tailored coaching and consulting services designed to unlock new levels of performance, trust, and resilience.
 
+---
+
 ### Foundation and Fine-Tuning
 
 We provide personalized pathways for growth, whether you're looking to overcome internal barriers, improve team dynamics, or navigate organizational change.
