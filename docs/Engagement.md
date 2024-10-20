@@ -9,8 +9,6 @@ At **Mindset Dojo**, we believe that true transformation—both personal and org
 
 ### Foundation and Fine-Tuning
 
-We provide personalized pathways for growth, whether you're looking to overcome internal barriers, improve team dynamics, or navigate organizational change.
-
 - **Individual Sessions**: Our 8- and 16-session packages help you overcome internal barriers and turn challenges into growth opportunities—especially under pressure.
 
 - **Small Group Sessions**: A 12-session package that helps teams navigate conflict, change, and formation leading to alignment with high-impact outcomes.
