@@ -24,7 +24,7 @@ At **Mindset Dojo**, we believe that true transformation—both personal and org
 
 ### **Mindset Black Belt Program: 7 Steps to Mastery**
 
-Beyond tasks and outputs, there are outcomes—but what truly matters is **Impact**.
+Beyond tasks and outputs, there are outcomes—but what truly matters is **Impact**!
 
 In the **Mindset Black Belt Program**, members progress through **7 steps of mastery**, advancing from white belt to black belt as they build skills in **emotional intelligence, insightful conflict, and systems thinking**. By integrating these skills, you'll thrive personally and professionally, unlocking continuous evolution as a leader and scaling your influence across personal, social, and organizational systems.
 
