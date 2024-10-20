@@ -6,9 +6,10 @@ title:
 {% assign belt_totals = {} %}
 {% assign active_members = site.data.members | where_exp: "member", "member.inactive != true" %}
 
-<!-- Initialize the totals for each belt level -->
+<!-- Explicitly set belt_totals for each belt -->
 {% for belt in site.beltLevels %}
-  {% assign belt_totals = belt_totals | merge: { belt.value: 0 } %}
+  {% capture belt_key %}{{ belt.value }}{% endcapture %}
+  {% assign belt_totals = belt_totals | append: belt_key | append: ":0;" %}
 {% endfor %}
 
 <!-- Calculate the total belts granted, which includes progression through all belts -->
