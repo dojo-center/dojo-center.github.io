@@ -15,9 +15,6 @@ curriculum:
     guidance:
       - TBD
     movements:
-      - label: Work through Orientation with a Sensei
-        link: https://en.wikipedia.org/wiki/Dojo
-        type: connectdevelop
       - label: How to Start a Movement
         link: https://www.ted.com/talks/derek_sivers_how_to_start_a_movement
         type: video-camera
