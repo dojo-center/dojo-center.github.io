@@ -26,7 +26,7 @@ title:
 {% endfor %}
 
 <div class="jumbotron p-5">
-    <h1 class="display-4">Dojo Achievements</h1>
+    <h1 class="display-4">Dojo Progression</h1>
     <p class="lead">Active summary of the community's competence claims</p>
     <hr class="my-4">
     <div class="row">
