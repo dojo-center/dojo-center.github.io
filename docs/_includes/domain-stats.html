@@ -14,17 +14,6 @@
     {% assign belt_totals = belt_totals | merge: { belt.value: 0 } %}
   {% endfor %}
 
-  <!-- Calculate the total number of belts for each level in this domain -->
-  {% for belt in site.beltLevels %}
-    <!-- Get members holding the current belt -->
-    {% assign members_with_belt = domain_members | where_exp: "member", "member.belts[dis] contains belt.value" %}
-    {% assign belt_count = members_with_belt | size %}
-    
-    <!-- Add current belt holders to this belt level -->
-    {% assign belt_totals = belt_totals | merge: { belt.value: belt_totals[belt.value] | plus: belt_count } %}
-
-  {% endfor %}
-
   <!-- Calculate total belts granted -->
   {% assign total_count = 0 %}
   {% for belt in site.beltLevels %}

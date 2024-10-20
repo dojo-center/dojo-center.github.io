@@ -11,21 +11,6 @@ title:
   {% assign belt_totals = belt_totals | merge: { belt.value: 0 } %}
 {% endfor %}
 
-<!-- Calculate the total number of belts for each level, including progression -->
-{% for dis in site.data.domains %}
-    {% assign disL = dis[1].label | downcase %}
-
-    {% for belt in site.beltLevels %}
-        <!-- Get members holding the current belt -->
-        {% assign members_with_belt = active_members | where_exp: "member", "member.belts[disL] contains belt.value" %}
-        {% assign belt_count = members_with_belt | size %}
-        
-        <!-- Add current belt holders to this belt level -->
-        {% assign belt_totals = belt_totals | merge: { belt.value: belt_totals[belt.value] | plus: belt_count } %}
-
-    {% endfor %}
-{% endfor %}
-
 <!-- Calculate the total belts granted, which includes progression through all belts -->
 {% assign belt_total = 0 %}
 {% for belt in site.beltLevels %}
