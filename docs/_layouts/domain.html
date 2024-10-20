@@ -35,7 +35,8 @@ layout: page
 
 {% for beltLevel in site.beltLevels %}
 <h4>
-    {% assign curriculumLevel = domain.curriculum | where: "level",beltLevel.value %}
+    {% assign curriculumLevelWrapper = domain.curriculum | where: "level",beltLevel.value %}
+    {% assign curriculumLevel = curriculumLevelWrapper[1] %}
     {{ curriculumLevel | debug }}
     <img src="images/belt-{{curriculumLevel.level}}.png" height="50" alt="{{curriculumLevel.level}}" />
     <a name="{{curriculumLevel.level}}-belt">{{curriculumLevel.label}}</a>
