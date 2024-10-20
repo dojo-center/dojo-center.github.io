@@ -3,6 +3,52 @@ layout: page
 title:
 ---
 
+<!-- Step 1: Initialize variables for each belt level -->
+{% assign white_total = 0 %}
+{% assign yellow_total = 0 %}
+{% assign green_total = 0 %}
+{% assign blue_total = 0 %}
+{% assign purple_total = 0 %}
+{% assign brown_total = 0 %}
+{% assign red_total = 0 %}
+{% assign black_total = 0 %}
+
+<!-- Step 2: Loop through members and their belts, increment the correct belt count -->
+{% for member in site.data.members %}
+  {% for belt in member.belts %}
+    {% case belt %}
+      {% when "white" %}
+        {% assign white_total = white_total | plus: 1 %}
+      {% when "yellow" %}
+        {% assign yellow_total = yellow_total | plus: 1 %}
+      {% when "green" %}
+        {% assign green_total = green_total | plus: 1 %}
+      {% when "blue" %}
+        {% assign blue_total = blue_total | plus: 1 %}
+      {% when "purple" %}
+        {% assign purple_total = purple_total | plus: 1 %}
+      {% when "brown" %}
+        {% assign brown_total = brown_total | plus: 1 %}
+      {% when "red" %}
+        {% assign red_total = red_total | plus: 1 %}
+      {% when "black" %}
+        {% assign black_total = black_total | plus: 1 %}
+    {% endcase %}
+  {% endfor %}
+{% endfor %}
+
+<!-- Step 3: Output the final totals for each belt -->
+<p>White belts: {{ white_total }}</p>
+<p>Yellow belts: {{ yellow_total }}</p>
+<p>Green belts: {{ green_total }}</p>
+<p>Blue belts: {{ blue_total }}</p>
+<p>Purple belts: {{ purple_total }}</p>
+<p>Brown belts: {{ brown_total }}</p>
+<p>Red belts: {{ red_total }}</p>
+<p>Black belts: {{ black_total }}</p>
+
+
+
 <!-- Step 1: Initialize each belt level total explicitly in a more Liquid-friendly way -->
 {% assign belt_totals = "" %}
 
