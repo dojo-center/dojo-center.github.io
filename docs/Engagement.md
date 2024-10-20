@@ -19,15 +19,11 @@ We provide personalized pathways for growth, whether you're looking to overcome 
 
 ---
 
-### **Mindset Black Belt Program: 7 Levels of Mastery**
+### **Mindset Black Belt Program: 7 Steps to Mastery**
 
 Beyond tasks and outputs, there are outcomes—but what truly matters is **Impact**.
 
-In the **Mindset Black Belt Program**, we focus on mastering emotions, conflict, and systems intelligence when it matters most. By integrating these skills, you'll thrive personally and professionally, unlocking continuous evolution as a leader and scaling your influence across personal, social, and organizational systems.
-
-It begins with **Becoming Aware**—not only in understanding your own emotions but also in recognizing and navigating the emotions of others. You'll develop newfound wisdom and systems intelligence, allowing you to manage complexity and change with confidence in relationships, teams, and organizations.
-
-From there, it’s about **Showing Up** with wise, human-focused, systems-aware decisions that balance immediate needs with long-term effects, including cultural impacts. As trust grows within your relationships and professional settings, you’ll cultivate resilience, improve balance, and scale your impact—driving sustainable success across social and organizational systems.
+In the **Mindset Black Belt Program**, members progress through **7 steps of mastery**, advancing from white belt to black belt as they build skills in **emotional intelligence, conflict resolution, and systems thinking**. By integrating these skills, you'll thrive personally and professionally, unlocking continuous evolution as a leader and scaling your influence across personal, social, and organizational systems.
 
 To ensure these transformations are real and lasting, our program isn’t just themed as a dojo—it mirrors the **high level of interactivity** found in one. We combine **targeted micro-learning**, **Mindset Circle meetups**, and solo, partner, and group reflection with **guided conversational practice**. This hands-on approach pressure-tests and nourishes what is learned, ensuring the experience is dynamic, engaging, and far beyond just text on a page.
 
