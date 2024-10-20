@@ -18,12 +18,14 @@
   {% for belt in site.beltLevels %}
     {% assign members_with_belt = domain_members | where_exp: "member", "member.belts[dis] contains belt.value" %}
     {% assign belt_count = members_with_belt | size %}
+    
+    <!-- Add current belt holders to this level -->
     {% assign belt_totals[belt.value] = belt_totals[belt.value] | plus: belt_count %}
 
-    <!-- Add current belt holders to all lower belts as they have progressed through them -->
-    {% for lower_belt in site.beltLevels %}
-      {% if belt.value != lower_belt.value and forloop.index0 < forloop.index %}
-        {% assign belt_totals[lower_belt.value] = belt_totals[lower_belt.value] | plus: belt_count %}
+    <!-- Add current belt holders to all previous belts, as they progressed through them -->
+    {% for previous_belt in site.beltLevels %}
+      {% if forloop.index0 < forloop.index %}
+        {% assign belt_totals[previous_belt.value] = belt_totals[previous_belt.value] | plus: belt_count %}
       {% endif %}
     {% endfor %}
   {% endfor %}
@@ -70,6 +72,4 @@
 {% else %}
   <div class="alert alert-dismissible alert-danger">
     <button type="button" class="close" data-dismiss="alert">&times;</button>
-    <strong>No stats available for this Domain!</strong>
-  </div>
-{% endif %}
+    <strong>No sta
