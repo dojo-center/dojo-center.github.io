@@ -38,8 +38,8 @@ layout: page
     {{ beltLevel | debug }}
     {% assign curriculumLevel = domain.curriculum | where: "level",beltLevel.value %}
     {{ curriculumLevel | debug }}
-    <img src="images/belt-{{curriculumLevel.value}}.png" height="50" alt="{{curriculumLevel.value}}" />
-    <a name="{{curriculumLevel.value}}-belt">{{curriculumLevel.label}}</a>
+    <img src="images/belt-{{curriculumLevel.level}}.png" height="50" alt="{{curriculumLevel.level}}" />
+    <a name="{{curriculumLevel.level}}-belt">{{curriculumLevel.label}}</a>
 </h4>
 <ul>
     {% for guidance in curriculumLevel.guidance %}
