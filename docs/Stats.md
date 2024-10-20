@@ -1,38 +1,43 @@
 ---
 layout: page
 title:
-
 ---
-{% assign white_total = 0 %}
-{% assign green_total = 0 %}
-{% assign red_total = 0 %}
-{% assign rBonus = 0 %}
-{% assign black_total = 0 %}
-{% assign bBonus = 0 %}
-{% assign show_domain = true %}
-{% assign belt_total = 0 %}
+
+{% assign belt_totals = {} %}
 {% assign active_members = site.data.members | where_exp: "member", "member.inactive != true" %}
 
+<!-- Initialize the totals for each belt level -->
+{% for belt in site.beltLevels %}
+  {% assign belt_totals = belt_totals | merge: { belt.value: 0 } %}
+{% endfor %}
+
+<!-- Calculate the total number of belts for each level and accumulate totals for lower belts -->
 {% for dis in site.data.domains %}
     {% assign disL = dis[1].label | downcase %}
-    {% assign gArr = site.data.members | where_exp: "member", "member.belts[disL] contains 'white'" %}
-    {% assign gSize =  gArr | size %}
-    {% assign white_total = white_total | plus: gSize %}
-    {% assign gArr = site.data.members | where_exp: "member", "member.belts[disL] contains 'green'" %}
-    {% assign gSize =  gArr | size %}
-    {% assign green_total = green_total | plus: gSize %}
-    {% assign rArr = site.data.members | where_exp: "member", "member.belts[disL] contains 'red'" %}
-    {% assign rSize =  rArr | size %}
-    {% assign red_total = red_total | plus: rSize %}
-    {% assign bArr = site.data.members | where_exp: "member", "member.belts[disL] contains 'black'" %}
-    {% assign bSize =  bArr | size %}
-    {% assign black_total = black_total | plus: bSize %}
-{% endfor %}
-{% assign rBonus = red_total | times: 2 %}
-{% assign bBonus = black_total | times: 3 %}
-{% assign belt_total = white_total | plus: green_total | plus: rBonus | plus: bBonus  %}
 
-<!--Inactive Members-->
+    {% for belt in site.beltLevels %}
+      {% assign members_with_belt = site.data.members | where_exp: "member", "member.belts[disL] contains belt.value" %}
+      {% assign belt_size = members_with_belt | size %}
+      
+      <!-- Add current belt holders to this level -->
+      {% assign belt_totals[belt.value] = belt_totals[belt.value] | plus: belt_size %}
+
+      <!-- Add current belt holders to all lower belts as they have progressed through them -->
+      {% for lower_belt in site.beltLevels %}
+        {% if belt.value != lower_belt.value and forloop.index0 < forloop.index %}
+          {% assign belt_totals[lower_belt.value] = belt_totals[lower_belt.value] | plus: belt_size %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+{% endfor %}
+
+<!-- Calculate the total belts, which now includes progression through all previous belts -->
+{% assign belt_total = 0 %}
+{% for belt in site.beltLevels %}
+  {% assign belt_total = belt_total | plus: belt_totals[belt.value] %}
+{% endfor %}
+
+<!-- Inactive Members -->
 {% assign inactiveArr = site.data.members | where_exp: "member", "member.inactive == true" %}
 
 <div class="jumbotron p-5">
@@ -54,33 +59,18 @@ title:
         </div>
     </div>
     <hr class="my-5">
-    <h1 class="text-center my-5">Appeal & Awareness</h1>
+
+    <!-- Dynamically Render Belt Levels and Totals -->
     <div class="row">
-        <div class="col-md-6 text-center my-6">
-            <h1 class="display-5">{{white_total}}</h1>
-            <img src="images/belt-white.png" height="60">
-            <h3>White Belts</h3>
-        </div>
-        <div class="col-md-6 text-center my-6">
-            <h1 class="display-5">{{green_total}}</h1>
-            <img src="images/belt-green.png" height="60">
-            <h3>Green Belts</h3>
-        </div>
+        {% for belt in site.beltLevels %}
+          <div class="col-md-6 text-center my-6">
+            <h1 class="display-5">{{ belt_totals[belt.value] }}</h1>
+            <img src="images/belt-{{ belt.value }}.png" height="60">
+            <h3>{{ belt.value | capitalize }} Belts</h3>
+          </div>
+        {% endfor %}
     </div>
-    <hr class="my-5">
-    <h1 class="text-center my-5">Action & Acceleration</h1>
-    <div class="row">
-        <div class="col-md-6 text-center my-6">
-            <h1 class="display-5">{{red_total}}</h1>
-            <img src="images/belt-red.png" height="60">
-            <h3>Red Belts</h3>
-        </div>
-        <div class="col-md-6 text-center my-6">
-            <h1 class="display-5">{{black_total}}</h1>
-            <img src="images/belt-black.png" height="60">
-            <h3>Black Belts</h3>
-        </div>
-    </div>
+
 </div>
 <div class="row">
     {% for domain in site.domains %}
@@ -88,5 +78,5 @@ title:
     {% endfor %}
 </div>
 <hr class="my-4">
-<p><em>* Stats are based on those who have sumbitted for belts. Rank totals show how many actively hold that belt. Higher belts are not included in lower belt totals, but are reflected in the Total Belts Granted.</em></p>
+<p><em>* Stats are based on those who have submitted for belts. Rank totals show how many actively hold that belt. Higher belts are not included in lower belt totals, but are reflected in the Total Belts Granted.</em></p>
 <p><em>** Inactive Members: {{inactiveArr | size}}</em></p>
