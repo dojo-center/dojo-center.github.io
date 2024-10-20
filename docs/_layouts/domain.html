@@ -35,7 +35,7 @@ layout: page
 
 {% for beltLevel in site.beltLevels %}
 <h4>
-    {% beltLevel %}
+    {% beltLevel.value %}
     {% assign curriculumLevel = domain.curriculum | where: "level",beltLevel.value %}
     {% curriculumLevel %}
     <img src="images/belt-{{curriculumLevel.value}}.png" height="50" alt="{{curriculumLevel.value}}" />
