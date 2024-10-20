@@ -3,9 +3,9 @@ layout: page
 title:
 ---
 
-<!-- Debugging: Output the mindset belt for each member -->
+<!-- Debugging: Output the full belts structure for each member -->
 {% for member in site.data.members %}
-  <p>Member {{ member.name }} mindset belt: {{ member.belts.mindset }}</p>
+  <p>Member {{ member.name }} belts: {{ member.belts | inspect }}</p>
 {% endfor %}
 
 
