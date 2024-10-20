@@ -23,12 +23,6 @@ title:
         <!-- Add current belt holders to this belt level -->
         {% assign belt_totals = belt_totals | merge: { belt.value: belt_totals[belt.value] | plus: belt_count } %}
 
-        <!-- Add current belt holders to all lower belts as they progressed through them -->
-        {% for lower_belt in site.beltLevels %}
-            {% if forloop.index0 < forloop.index %}
-                {% assign belt_totals = belt_totals | merge: { lower_belt.value: belt_totals[lower_belt.value] | plus: belt_count } %}
-            {% endif %}
-        {% endfor %}
     {% endfor %}
 {% endfor %}
 
