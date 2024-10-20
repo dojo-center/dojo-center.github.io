@@ -6,16 +6,21 @@ title:
 {% assign belt_totals = {} %}
 {% assign active_members = site.data.members | where_exp: "member", "member.inactive != true" %}
 
-<!-- Explicitly set belt_totals for each belt -->
+<!-- Manually initialize each belt level total -->
 {% for belt in site.beltLevels %}
-  {% capture belt_key %}{{ belt.value }}{% endcapture %}
-  {% assign belt_totals = belt_totals | append: belt_key | append: ":0;" %}
+  {% assign belt_totals = belt_totals | append: belt.value | append: ":0;" %}
 {% endfor %}
 
-<!-- Calculate the total belts granted, which includes progression through all belts -->
-{% assign belt_total = 0 %}
-{% for belt in site.beltLevels %}
-  {% assign belt_total = belt_total | plus: belt_totals[belt.value] %}
+<!-- Now split the belt_totals string back into usable parts -->
+{% assign belt_totals_array = belt_totals | split: ";" %}
+{% assign belt_totals = {} %}
+
+<!-- Loop through the split array and set each belt's value -->
+{% for pair in belt_totals_array %}
+  {% assign key_value = pair | split: ":" %}
+  {% if key_value[0] and key_value[1] %}
+    {% assign belt_totals = belt_totals | merge: { key_value[0]: key_value[1] } %}
+  {% endif %}
 {% endfor %}
 
 <!-- Inactive Members -->
