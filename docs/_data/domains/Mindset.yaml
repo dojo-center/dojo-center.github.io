@@ -1,33 +1,36 @@
 ---
 label: Mindset
-mission: Become fully authentic when it matters most
+mission: Become fully authentic and trustworthy when it matters most
 principles:
-  - label: Reconnect with purpose under pressure
+  - label: Relax and reconnect with purpose under pressure
   - label: Emotional wisdom is trusting your compass when encountering deep waves
   - label: Conflict reveals insight that deepens even adversarial relationships
   - label: Reflex improves through intentional reflective repetition
 communities:
   - label: Dojo Circle (Dojo Center) (Fridays at 13:00 UTC)
     link: https://circle.dojo.center
-exercises:
-  - label: Ignition
-    level: white
+curriculum:
+  - level: white
+    label: White level - Orientation
+    guidance:
+      - TBD
     movements:
       - label: Work through Orientation with a Sensei
-        link: ./Orientation-Request
+        link: https://en.wikipedia.org/wiki/Dojo
         type: connectdevelop
-    duration: 1.0 hrs
-  - label: Daybreak
-    level: green
-    movements:
-      - label: Insightful Learning - InnerSource Dojo Way (Agile Method)
-        link: https://insightful-learning.dojo.center
+      - label: How to Start a Movement
+        link: https://www.ted.com/talks/derek_sivers_how_to_start_a_movement
         type: video-camera
-      - label: Slides - Insightful Learning - InnerSource Dojo Way (Agile Method)
-        link: https://slides.insightful-learning.dojo.center
-        type: file-pdf-o
+  - level: yellow
+    label: Yellow level - Systems Thinking
+    guidance:
+      - TBD
+    movements:
       - label: Adult Learns to Ride a Bicycle for the First Time!
         link: https://www.youtube.com/watch?v=ELW3CgR-DW4
+        type: video-camera
+      - label: The Backwards Brain Bicycle
+        link: https://www.youtube.com/watch?v=MFzDaBzBlL0
         type: video-camera
       - label: Got a wicked problem? First, tell me how you make toast - Tom Wujec
         link: https://youtu.be/_vS_b7cJn2A?si=aNVykmdCSSWv2yW5
@@ -41,9 +44,10 @@ exercises:
       - label: The Cynefin Framework
         link: https://jedisquad.com/the-cynefin-framework
         type: globe
-    duration: 2.0 hrs
-  - label: Perception
-    level: green
+  - level: green
+    label: Green level - Perception
+    guidance:
+      - TBD
     movements:
       - label: Bias - Duck Rabbit - Amy Krause
         link: https://www.youtube.com/watch?v=36AqMX5uua4
@@ -54,21 +58,19 @@ exercises:
       - label: The Unpredictable Freedom and Sweetness of Chaos
         link: https://zenhabits.net/embrace-chaos/
         type: globe
-      - label: Tetris and Empathy
-        link: http://adamkulidjian.com/tetris-and-empathy.html
-        type: globe
       - label: Spiral Dynamics
         link: https://www.youtube.com/watch?v=lLhlgUtwvVU
         type: video-camera
-      - label: The Backwards Brain Bicycle
-        link: https://www.youtube.com/watch?v=MFzDaBzBlL0
-        type: video-camera
+      - label: Actualized.org - The Grand Model Of Psychological Evolution - Clare Graves & Spiral Dynamics
+        link: https://www.youtube.com/watch?v=23aDNBvn_2g
+        type: globe
       - label: The Power of System Metaphor
         link: https://en.wikibooks.org/wiki/Software_Engineering_with_an_Agile_Development_Framework/Iteration_One/System_metaphor
         type: globe
-    duration: 3.0 hrs
-  - label: Conditioning
-    level: green
+  - level: blue
+    label: Blue level - Emotional Intelligence
+    guidance:
+      - TBD
     movements:
       - label: Agile Mental Model (Karpman Awareness Triangle)
         link: https://agile-od.com/mental-model-dojo/karpmans-drama-triangle
@@ -79,23 +81,10 @@ exercises:
       - label: Inside Out 2
         link: https://movies.disney.com/inside-out-2
         type: film
-      - label: Unpack learned insights in a Dojo Mindset Circle session
-        link: ./Mindset#communities
-        type: connectdevelop
-      - label: Send a note of appreciation to your dialog partners
-        link: https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/main/patterns/2-structured/praise-participants.md
-        type: lightbulb-o
-    instructions:
-      - Review Karpman's Drama Triangle about drama dynamics
-      - Watch the video and perform the exercise about emotional intelligence
-      - Watch the movie
-      - Reflect on how it relates to navigating passionate situations
-      - Have a dialog session with a peer to unwrap, unpack and find points of resonance of this exploration
-      - Unpack learned insights from the conditioning exercises in a Dojo Circle session
-      - Send a note of appreciation to your dialog partners
-    duration: 7.0 hrs
-  - label: Inspiration
-    level: red
+  - level: purple
+    label: Purple level - Motivation
+    guidance:
+      - TBD
     movements:
       - label: The Goal Video - Boy Scout Hike
         link: https://www.youtube.com/watch?v=Heesxgrl-cM
@@ -109,95 +98,45 @@ exercises:
       - label: Smarter Every Day 293 - I Was SCARED To Say This To NASA... (But I said it anyway)
         link: https://www.youtube.com/watch?v=OoJsPvmFixU
         type: video-camera
-      - label: A Definitive Guide to Understanding Intrinsic Motivation
-        link: https://scottjeffrey.com/intrinsic-motivation-examples
-      - label: 4th-Person Knowing - A New, Old Way For Leadership Insight
-        link: https://www.forbes.com/sites/ginnywhitelaw/2024/07/01/4th-person-knowing-a-new-old-way-for-leadership-insight
-        type: globe
-    duration: 5.0 hrs
-  - label: Conditioning
-    level: red
-    movements:
-      - label: Actualized.org - The Grand Model Of Psychological Evolution - Clare Graves & Spiral Dynamics
-        link: https://www.youtube.com/watch?v=23aDNBvn_2g
-        type: globe
       - label: Atomic Habits - How to Get 1% Better Every Day - James Clear
         link: https://www.youtube.com/watch?v=U_nzqnXWvSo
         type: video-camera
+      - label: A Definitive Guide to Understanding Intrinsic Motivation
+        link: https://scottjeffrey.com/intrinsic-motivation-examples
+        type: globe
+  - level: brown
+    label: Brown level - Energy Balance
+    guidance:
+      - TBD
+    movements:
+      - label: 4th-Person Knowing - A New, Old Way For Leadership Insight
+        link: https://www.forbes.com/sites/ginnywhitelaw/2024/07/01/4th-person-knowing-a-new-old-way-for-leadership-insight
+        type: globe
       - label: The Zen Leader Animated - Ginny Whitelaw
         link: https://www.youtube.com/watch?v=TsnVMJ7_DqA
         type: video-camera
-      - label: The Zen Leader - Mini-FEBI Awareness Exercise
-        link: https://zenleader.global/mini-febi
-        type: lightbulb-o
       - label: Infographic - 10 Essential Flips of Zen Leadership
         link: https://cdn.dirigible.studio/wp-content/uploads/sites/24/2021/09/04073619/TZL-graphic-izl.pdf
         type: file-pdf-o
-    instructions:
-      - Explore the videos and media above
-      - Engage the Zen Leader Mini-FEBI awareness exercise
-      - Find peers who have successfully developed one or more of the 10 Essential Flips into a reflex
-      - Select 3 of the flips to work on, such as Or-To-And, Out-There-To-In-Here and From-Controlling-To-Connecting
-      - Work to form a reflex for each of these by exercising the following form ...
-      - Consider each flip and do a Prospective
-      - Go over the concept in dialog and rehearse a plan
-      - Find a Circle where you can be a guest facilitator
-      - During facilitation apply the concept opportunistically and reflexively without overthinking
-      - Meet with your peer(s), Senpai and Sensei as you see fit
-      - Ensure that you have facilitated a minimum of 3 group dialog sessions
-    duration: 10.0 hrs
-  - label: Transformation
-    level: black
+      - label: The Zen Leader - FEBI
+        link: https://zenleader.global/febi-offerings/
+        type: lightbulb-o
+  - level: red
+    label: Red level - Negotiation
+    guidance:
+      - TBD
     movements:
-      - label: How to Start a Movement
-        link: https://www.ted.com/talks/derek_sivers_how_to_start_a_movement
-        type: video-camera
-      - label: Stone Soup
-        link: https://www.youtube.com/watch?v=U1Avo5FJ250
-        type: video-camera
-      - label: Extreme Programming - System Metaphor
-        link: https://www.linkedin.com/advice/0/how-do-you-collaborate-share-your-system-metaphor
-        type: globe
-      - label: Pair Programming
-        link: https://en.wikipedia.org/wiki/Pair_programming
-        type: wikipedia-w
-      - label: The Art of Refactoring
-        link: https://michaelnthiessen.com/art-of-refactoring/
-        type: globe
-      - label: Metaphors We Live By - George Lakoff and Mark Johnson
-        link: https://www.youtube.com/watch?v=lYcQcwUfo8c
-        type: video-camera
       - label: Never Split The Difference - Chris Voss
         link: https://www.youtube.com/watch?v=MjhDkNmtjy0
         type: video-camera
       - label: Infographic - The Black Swan Group's Negotiation 9™ (N9™)
         link: https://blog.blackswanltd.com/the-edge/infographic-the-black-swan-groups-negotiation-9
         type: globe
-    instructions:
-      - Explore the videos and media above
-      - Find peers who have successfully infused one or more of the Negotiation 9™ moves
-      - Select 3 of the moves to work on, such as Dynamic Silence, Paraphrase and Rule-Of-Three
-      - Consider each move through a Prospective
-      - Rehearse a plan for how the moves can work independently and together
-      - Apply the moves at an opportune time without overthinking
-      - Reflect after each application in the form of an informal Retrospective
-      - Meet with colleagues as you see fit to soundboard and receive feedback
-      - Move forward once at least 3 of the Negotiation 9™ moves seem natural AND ...
-      - Negotiation 9™ moves can be combined with Essential Flips WITH ...
-      - Awareness of the metaphors in play for negotiating parties
-      - Write a chapter for the Dojo book that reflects on your Mindset journey
-    duration: 20.00 hrs
-  - label: Scaled Action By Example
-    level: black
+  - level: black
+    label: Black level - Metaphor
+    guidance:
+      - TBD
     movements:
-      - label: DevOps Cloud Mindset Shift
-        link: https://mindset.basil.one
-        type: globe
-      - label: OMG! I Am a New Product Owner. Help!!! - James Manzzullo
-        link: https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/omg-i-am-a-new-product-owner-help/ba-p/13553971
-        type: globe
-    instructions:
-      - Review some of the provided examples from existing members
-      - Demonstrate the Mindset journey with cascading positive impacts
-      - Publish the journey as a blog post or creative alternative
-    duration: 20.0 hrs
+      - label: Metaphors We Live By - George Lakoff and Mark Johnson
+        link: https://www.youtube.com/watch?v=lYcQcwUfo8c
+        type: video-camera

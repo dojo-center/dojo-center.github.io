@@ -19,35 +19,14 @@ chronicles:
     link: "https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/dojo-mindset-and-agile-circles-the-socratic-method-practically-applied-to/ba-p/13678600"
 
 beltLevels:
-  - label: White level - Appeal
-    value: white
-    competences:
-      - Initial exposure, like noticing someone is riding a bicycle
-      - Sets an intention to explore an unfamiliar domain
-      - '<a href="./Orientation-Request">Orientation - Start your journey by putting on your first belt</a>'
-  - label: Green level - Aware
-    value: green
-    competences:
-      - Abstract understanding, like observing a friend ride a bicycle
-      - Able to work with basic concepts fluidly in conversation
-      - '<a href="./Belt-Request">Belt Claim - Demonstrate grasp of key metaphors, motivations and mindsets</a>'
-  - label: Red level - Action
-    value: red
-    competences:
-      - Direct experience, like riding a bicycle at first, falling down frequently
-      - Demonstrated applied action using a new skill supported by peers
-      - '<a href="./Belt-Request">Belt Claim - Demonstrate competence to apply skill going forward with autonomy and inclusiveness</a>'
-  - label: Black level - Acceleration
-    value: black
-    competences:
-      - Embodiment, like pedaling a bicycle fast and hard, learning safely when falling
-      - Demonstrated commitment to helping others explore the domain
-      - '<a href="./Belt-Request">Belt Claim - Demonstrate scaled action illustrating benefit for your home group</a>'
-
-learningGuidance:
-  - Explore the concepts and exercises below
-  - Summarize the key points in writing at each step and circle back as you progress
-  - Have dialog with peers to test and deepen understanding
+  - value: white
+  - value: yellow
+  - value: green
+  - value: blue
+  - value: purple
+  - value: brown
+  - value: red
+  - value: black
 
 domains:
   - Mindset
@@ -75,10 +54,6 @@ community:
     icon: users
   - link: Stats
     icon: pie-chart
-
-requests:
-  - Belt-Request
-  - Orientation-Request
 
 # Blog settings
 show_excerpts: false
