@@ -20,6 +20,11 @@ title:
 <!-- Inactive Members -->
 {% assign inactiveArr = site.data.members | where_exp: "member", "member.inactive == true" %}
 
+{% for belt in site.beltLevels %}
+  {{ belt_totals | debug }}
+  <p>{{ belt.value }}: {{ belt_totals[belt.value] }}</p>
+{% endfor %}
+
 <div class="jumbotron p-5">
     <h1 class="display-4">Dojo Achievements</h1>
     <p class="lead">Active summary of the community's competence claims</p>
