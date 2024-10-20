@@ -16,22 +16,23 @@ title:
     {% assign disL = dis[1].label | downcase %}
 
     {% for belt in site.beltLevels %}
-      {% assign members_with_belt = domain_members | where_exp: "member", "member.belts[disL] contains belt.value" %}
+      <!-- Get members holding the current belt -->
+      {% assign members_with_belt = site.data.members | where_exp: "member", "member.belts[disL] contains belt.value" %}
       {% assign belt_count = members_with_belt | size %}
       
-      <!-- Add current belt holders to this level -->
-      {% assign belt_totals[belt.value] = belt_totals[belt.value] | plus: belt_count %}
+      <!-- Add current belt holders to this belt level -->
+      {% assign belt_totals = belt_totals | merge: { belt.value: belt_totals[belt.value] | plus: belt_count } %}
 
-      <!-- Add current belt holders to all previous belt levels, since they passed through them -->
-      {% for previous_belt in site.beltLevels %}
+      <!-- Accumulate for all lower belt levels as they passed through them -->
+      {% for lower_belt in site.beltLevels %}
         {% if forloop.index0 < forloop.index %}
-          {% assign belt_totals[previous_belt.value] = belt_totals[previous_belt.value] | plus: belt_count %}
+          {% assign belt_totals = belt_totals | merge: { lower_belt.value: belt_totals[lower_belt.value] | plus: belt_count } %}
         {% endif %}
       {% endfor %}
     {% endfor %}
 {% endfor %}
 
-<!-- Calculate the total belts granted, which includes progression through all belts -->
+<!-- Calculate the total belts granted -->
 {% assign belt_total = 0 %}
 {% for belt in site.beltLevels %}
   {% assign belt_total = belt_total | plus: belt_totals[belt.value] %}

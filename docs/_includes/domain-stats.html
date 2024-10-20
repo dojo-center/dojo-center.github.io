@@ -16,21 +16,22 @@
 
   <!-- Calculate the total number of belts for each level in this domain -->
   {% for belt in site.beltLevels %}
+    <!-- Get members holding the current belt -->
     {% assign members_with_belt = domain_members | where_exp: "member", "member.belts[dis] contains belt.value" %}
     {% assign belt_count = members_with_belt | size %}
     
-    <!-- Add current belt holders to this level -->
-    {% assign belt_totals[belt.value] = belt_totals[belt.value] | plus: belt_count %}
+    <!-- Add current belt holders to this belt level -->
+    {% assign belt_totals = belt_totals | merge: { belt.value: belt_totals[belt.value] | plus: belt_count } %}
 
-    <!-- Add current belt holders to all previous belts, as they progressed through them -->
-    {% for previous_belt in site.beltLevels %}
+    <!-- Accumulate for all lower belt levels -->
+    {% for lower_belt in site.beltLevels %}
       {% if forloop.index0 < forloop.index %}
-        {% assign belt_totals[previous_belt.value] = belt_totals[previous_belt.value] | plus: belt_count %}
+        {% assign belt_totals = belt_totals | merge: { lower_belt.value: belt_totals[lower_belt.value] | plus: belt_count } %}
       {% endif %}
     {% endfor %}
   {% endfor %}
 
-  <!-- Calculate total belts granted by adding up all belt levels -->
+  <!-- Calculate total belts granted -->
   {% assign total_count = 0 %}
   {% for belt in site.beltLevels %}
     {% assign total_count = total_count | plus: belt_totals[belt.value] %}
@@ -72,4 +73,6 @@
 {% else %}
   <div class="alert alert-dismissible alert-danger">
     <button type="button" class="close" data-dismiss="alert">&times;</button>
-    <strong>No sta
+    <strong>No stats available for this Domain!</strong>
+  </div>
+{% endif %}
