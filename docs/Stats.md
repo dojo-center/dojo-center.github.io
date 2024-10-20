@@ -3,7 +3,48 @@ layout: page
 title:
 ---
 
-{% assign belt_totals = {} %}
+<!-- Step 1: Initialize an empty string to hold our belt totals -->
+{% assign belt_totals = "" %}
+
+<!-- Step 2: Dynamically add each belt key with an initial value of 0 -->
+{% for belt in site.beltLevels %}
+  {% capture belt_key %}{{ belt.value }}{% endcapture %}
+  {% assign belt_totals = belt_totals | append: belt_key | append: ":0;" %}
+{% endfor %}
+
+<!-- Debugging: Output the belt_totals string to verify it's being created correctly -->
+<p>{{ belt_totals }}</p>
+
+<!-- Step 3: Convert the belt_totals string into an array of key-value pairs -->
+{% assign belt_totals_array = belt_totals | split: ";" %}
+
+<!-- Step 4: Create a dictionary from this array of key-value pairs -->
+{% assign belt_totals_dict = {} %}
+{% for pair in belt_totals_array %}
+  {% assign key_value = pair | split: ":" %}
+  {% if key_value[0] and key_value[1] %}
+    {% assign belt_totals_dict = belt_totals_dict | merge: { key_value[0]: key_value[1] | plus: 0 } %}
+  {% endif %}
+{% endfor %}
+
+<!-- Debugging: Output the dictionary to see its structure -->
+{{ belt_totals_dict | debug }}
+
+<!-- Step 5: Modify the values dynamically (this example shows how you can increase totals) -->
+{% for member in site.data.members %}
+  {% for belt in member.belts %}
+    {% assign current_total = belt_totals_dict[belt] | plus: 1 %}
+    {% assign belt_totals_dict = belt_totals_dict | merge: { belt: current_total } %}
+  {% endfor %}
+{% endfor %}
+
+<!-- Step 6: Output the final belt totals -->
+{% for belt in site.beltLevels %}
+  <p>{{ belt.value | capitalize }}: {{ belt_totals_dict[belt.value] }}</p>
+{% endfor %}
+
+
+
 {% assign active_members = site.data.members | where_exp: "member", "member.inactive != true" %}
 
 <!-- Manually initialize each belt level total -->
