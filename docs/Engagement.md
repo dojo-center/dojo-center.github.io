@@ -25,7 +25,7 @@ Beyond tasks and outputs, there are outcomes—but what truly matters is **Impac
 
 In the **Mindset Black Belt Program**, we focus on mastering emotions, conflict, and systems intelligence when it matters most. By integrating these skills, you'll thrive personally and professionally, unlocking continuous evolution as a leader and scaling your influence across personal, social, and organizational systems.
 
-It begins with **Becoming Masterful**—not only in understanding your own emotions but also in recognizing and navigating the emotions of others. You'll develop newfound wisdom and systems intelligence, allowing you to manage complexity and change with confidence in relationships, teams, and organizations.
+It begins with **Becoming Aware**—not only in understanding your own emotions but also in recognizing and navigating the emotions of others. You'll develop newfound wisdom and systems intelligence, allowing you to manage complexity and change with confidence in relationships, teams, and organizations.
 
 From there, it’s about **Showing Up** with wise, human-focused, systems-aware decisions that balance immediate needs with long-term effects, including cultural impacts. As trust grows within your relationships and professional settings, you’ll cultivate resilience, improve balance, and scale your impact—driving sustainable success across social and organizational systems.
 
