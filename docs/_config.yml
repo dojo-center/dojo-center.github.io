@@ -21,7 +21,7 @@ beltLevels:
   - value: black
     sort: 1
 
-domains:
+programs:
   - mindset
 
 engagement:

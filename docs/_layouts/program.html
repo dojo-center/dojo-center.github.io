@@ -2,20 +2,20 @@
 layout: page
 ---
 
-{% for domainWrapper in site.data.domains %}
-{% assign domain = domainWrapper[1] %}
-{% if domain.label == page.title %}
+{% for programWrapper in site.data.programs %}
+{% assign program = programWrapper[1] %}
+{% if program.label == page.title %}
 <div class="row">
     <div class="col-md-8">
         <h5><a name="communities" href="https://www.merriam-webster.com/dictionary/mission">Mission</a></h5>
         <div class="m-3">
-            <p>{{ domain.mission }}</p>
+            <p>{{ program.mission }}</p>
         </div>
         <hr>
 
         <h5><a href="https://www.merriam-webster.com/dictionary/principle">Principles</a></h5>
         <div class="m-3">
-            {% for principle in domain.principles %}
+            {% for principle in program.principles %}
             <p>{{ principle.label }}</p>
             {% endfor %}
         </div>
@@ -23,7 +23,7 @@ layout: page
 
         <h5><a href="https://en.m.wikipedia.org/wiki/Community">Communities</a></h5>
         <div class="m-3">
-            {% for community in domain.communities %}
+            {% for community in program.communities %}
             <p><a href="{{ community.link }}">{{ community.label }}</a></p>
             {% endfor %}
         </div>
@@ -33,7 +33,7 @@ layout: page
 
 {% for beltLevel in site.beltLevels %}
 <h4>
-    {% assign programLevel = domain.program | where: "level",beltLevel.value | first %}
+    {% assign programLevel = program.progression | where: "level",beltLevel.value | first %}
     <img src="images/belt-{{ programLevel.level }}.png" height="50" alt="{{ programLevel.level }}" />
     <a name="{{ programLevel.level }}-belt">{{ programLevel.label }}</a>
 </h4>

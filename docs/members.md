@@ -11,8 +11,8 @@ datatable: true
         <thead>
             <tr>
                 <th class="text-center" scope="col"></th>
-                {% for domain in site.domains -%}
-                <th class="text-center" scope="col">{{domain}}</th>
+                {% for program in site.programs -%}
+                <th class="text-center" scope="col">{{program}}</th>
                 {% endfor %}
             </tr>
         </thead>
@@ -28,11 +28,11 @@ datatable: true
                     <td class="text-left" scope="row">
                         <div class="text-primary"><a href="{{member.url}}">{{ member.name }}</a></div>
                     </td>
-                    {% for domain in site.domains %}
+                    {% for program in site.programs %}
                         {% assign beltColor = "" %}
-                        {% assign domainLower = domain | downcase %}
+                        {% assign programLower = program | downcase %}
                         {% for item in member.belts %}
-                            {% if item[0] == domainLower %}
+                            {% if item[0] == programLower %}
                             {% assign beltColor = item[1] %}
                             {% endif %}
                         {% endfor %}

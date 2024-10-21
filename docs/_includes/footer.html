@@ -3,9 +3,9 @@
         <div class="col-sm">
             <h5 class="text-white">Programs</h5>
             <ul class="list-unstyled navbar-nav flex-column">
-                {% for domain in site.domains %}
+                {% for program in site.programs %}
                 <li class="nav-item">
-                    <nobr><a class="nav-link" href="{{ domain | relative_url}}">{{ domain | capitalize }}</a></nobr>
+                    <nobr><a class="nav-link" href="{{ program | relative_url}}">{{ program | capitalize }}</a></nobr>
                 </li>
                 {% endfor %}
             </ul>
