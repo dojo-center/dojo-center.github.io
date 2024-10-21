@@ -1,4 +1,4 @@
 ---
-layout: domain
+layout: program
 title: Mindset
 ---

@@ -14,8 +14,8 @@
                         Programs
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        {% for domain in site.domains %}
-                        <a class="dropdown-item" href="{{ domain | relative_url}}">{{ domain | capitalize }}</a>
+                        {% for page in site.programs %}
+                        <a class="dropdown-item" href="{{ page | relative_url}}">{{ page | capitalize }}</a>
                         {% endfor %}
                     </div>
                 </li>
