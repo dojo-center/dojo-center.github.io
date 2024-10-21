@@ -26,13 +26,13 @@ domains:
 
 engagement:
   - link: impact
-    icon: lightbulb
+    icon: lightbulb-o
   - link: offerings
-    icon: handshake
+    icon: handshake-o
 
 community:
   - link: stories
-    icon: newspaper
+    icon: newspaper-o
   - link: members
     icon: users
 
