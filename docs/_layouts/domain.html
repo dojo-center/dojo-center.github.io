@@ -49,7 +49,7 @@ layout: page
     {% else %}
         {% capture exercise_type %}fa-question-circle{% endcapture %}
     {% endif %}
-    <p><a href="{{ exercise.link }}" target="_blank" rel="noopener noreferrer"><i class="fa {{ exercise_type }}"></i> {{ movement.label }}</a></p>
+    <p><a href="{{ exercise.link }}" target="_blank" rel="noopener noreferrer"><i class="fa {{ exercise_type }}"></i> {{ exercise.label }}</a></p>
     {% endfor %}
 </div>
 {% endfor %}
