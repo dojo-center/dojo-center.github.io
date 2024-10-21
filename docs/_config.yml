@@ -2,17 +2,6 @@
 title: Mindset Dojo
 email: ""
 description: Balance Within, Excellence Beyond
-chronicles:
-  - label: Culture
-    link: "https://www.youtube.com/watch?v=5TWsIeeYu7k"
-  - label: DevOps
-    link: "https://www.sumologic.com/blog/how-sap-built-a-dojo-community-of-practice-to-support-a-cultural-shift-to-devops/"
-  - label: DataOps
-    link: "https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/from-challenges-to-transformation-the-data-services-organization-dojo-tale/ba-p/13646867"
-  - label: Senpai
-    link: "https://community.sap.com/t5/open-source-blogs/from-learner-to-leader-the-power-of-senpai/ba-p/13662823"
-  - label: Circles
-    link: "https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/dojo-mindset-and-agile-circles-the-socratic-method-practically-applied-to/ba-p/13678600"
 
 beltLevels:
   - value: white
@@ -35,7 +24,15 @@ beltLevels:
 domains:
   - mindset
 
+engagement:
+  - link: impact
+    icon: lightbulb
+  - link: offerings
+    icon: handshake
+
 community:
+  - link: stories
+    icon: newspaper
   - link: members
     icon: users
 
