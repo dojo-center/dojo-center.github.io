@@ -25,10 +25,10 @@ beltLevels:
   - value: black
 
 domains:
-  - Mindset
+  - mindset
 
 community:
-  - link: Members
+  - link: members
     icon: users
 
 plugins:

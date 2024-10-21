@@ -15,7 +15,7 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         {% for domain in site.domains %}
-                        <a class="dropdown-item" href="{{ domain | relative_url}}">{{ domain }}</a>
+                        <a class="dropdown-item" href="{{ domain | relative_url}}">{{ domain | capitalize }}</a>
                         {% endfor %}
                     </div>
                 </li>
@@ -27,7 +27,7 @@
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         {% for page in site.community %}
                         <a class="dropdown-item" href="{{ page.link | relative_url}}"><i
-                                class="fa fa-{{ page.icon }} mr-2"></i>{{ page.link }}</a>
+                                class="fa fa-{{ page.icon }} mr-2"></i>{{ page.link | capitalize }}</a>
                         {% endfor %}
                     </div>
                 </li>

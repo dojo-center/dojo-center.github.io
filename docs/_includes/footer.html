@@ -14,7 +14,7 @@
             <ul class="list-unstyled navbar-nav flex-column">
                 {% for domain in site.domains %}
                 <li class="nav-item">
-                    <nobr><a class="nav-link" href="{{ domain | relative_url}}">{{ domain }}</a></nobr>
+                    <nobr><a class="nav-link" href="{{ domain | relative_url}}">{{ domain | capitalize }}</a></nobr>
                 </li>
                 {% endfor %}
             </ul>
@@ -28,7 +28,7 @@
             <ul class="list-unstyled navbar-nav flex-column">
                 {% for community in site.community %}
                 <li class="nav-item m-0"><a class="nav-link" href="{{ community.link | relative_url}}"><i
-                            class="fa fa-{{ community.icon }} mr-1"></i>{{ community.link }}</a></li>
+                            class="fa fa-{{ community.icon }} mr-1"></i>{{ community.link | capitalize }}</a></li>
                 {% endfor %}
             </ul>
         </div>
