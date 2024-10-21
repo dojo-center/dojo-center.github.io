@@ -37,12 +37,14 @@ datatable: true
                             {% endif %}
                         {% endfor %}
                         
-                        {% assign beltValue = site.beltLevels | map: "value" | index: beltColor %}
-                        {% if beltValue == nil %}
-                            {% assign beltValue = -1 %}
+                        {% assign belt = site.beltLevels | where: "value", beltColor | first %}
+                        {% if belt %}
+                            {% assign beltSort = belt.sort %}
+                        {% else %}
+                            {% assign beltSort = -9999 %}
                         {% endif %}
 
-                        <td class="text-center" data-search="{{ beltColor }}" data-sort="{{ beltValue }}"><img class="mx-auto d-block" src="images/belt-{{ beltColor }}.png" height="30" /></td>
+                        <td class="text-center" data-search="{{ beltColor }}" data-sort="{{ beltSort }}"><img class="mx-auto d-block" src="images/belt-{{ beltColor }}.png" height="30" /></td>
                     {% endfor %}
                 </tr>
             {% endfor %}

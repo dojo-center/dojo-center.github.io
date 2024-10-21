@@ -16,13 +16,21 @@ chronicles:
 
 beltLevels:
   - value: white
+    sort: -7
   - value: yellow
+    sort: -6 
   - value: green
+    sort: -5
   - value: blue
+    sort: -4
   - value: purple
+    sort: -3
   - value: brown
+    sort: -2
   - value: red
+    sort: -1
   - value: black
+    sort: 1
 
 domains:
   - mindset
