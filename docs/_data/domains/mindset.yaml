@@ -13,14 +13,14 @@ curriculum:
   - level: white
     label: White level - Orientation
     guidance:
-      - Meet with a Sensei to go over your intention and receive tailored instruction on proceeding
+      - Meet with a sensei to go over your intention and receive tailored instruction on proceeding
       - Attend a community call and introduce yourself
     movements:
       - label: How to Start a Movement
         link: https://www.ted.com/talks/derek_sivers_how_to_start_a_movement
         type: video-camera
   - level: yellow
-    label: Yellow level - Systems Thinking
+    label: Yellow level - Plasticity
     guidance:
       - Meet with a sensei to go over your intention and receive tailored instruction on proceeding
       - As you complete the movements as instructed ensure you reflect on your experience at community calls
