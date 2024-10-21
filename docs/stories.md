@@ -3,7 +3,11 @@ title: Stories
 layout: page
 ---
 
-## DevOps Culture and Dojo Practices
+At Mindset Dojo, every journey is a story of transformation—whether it's in leadership, culture, or personal growth. Here, we share stories that highlight the power of emotional intelligence, conflict mastery, and continuous learning. From overcoming challenges to creating lasting impact, these narratives reflect the heart of what we do.
+
+Explore how individuals and teams are cultivating mastery and driving change in their organizations and lives.
+
+### DevOps Culture and Dojo Practices
 
 - **How to manage DevOps culture? From traditional IT practices, to DevOps and beyond**
 
@@ -17,7 +21,7 @@ layout: page
 
   - [Read SAP blog](https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/from-challenges-to-transformation-the-data-services-organization-dojo-tale/ba-p/13646867)
 
-## Dojo Mindset and Leadership Transformation
+### Dojo Mindset and Leadership Transformation
 
 - **From Learner to Leader: The Power of Senpai**
 
@@ -27,7 +31,7 @@ layout: page
 
   - [Read SAP blog](https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/dojo-mindset-and-agile-circles-the-socratic-method-practically-applied-to/ba-p/13678600)
 
-## Emotional Intelligence and Conflict Mastery
+### Emotional Intelligence and Conflict Mastery
 
 - **Insight Garden: Conflict as a Koan**  
 
