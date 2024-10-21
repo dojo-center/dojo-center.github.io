@@ -18,8 +18,6 @@ At **Mindset Dojo**, we believe that transformation is an art—an art that begi
 - **Bespoke Leadership Consulting**
   - For organizations facing unique challenges, our tailored consulting packages offer in-depth strategies for cultural transformation, navigating team dynamics, or enhancing pivotal transitions.
 
-[Explore some of our success cases here](https://projects.michael.basil.one/)
-
 ---
 
 ### **Mindset Black Belt Program: Mastery in 7 Steps**
