@@ -3,7 +3,7 @@ title: Cultivate Mastery
 layout: page
 ---
 
-At **Mindset Dojo**, we believe that transformation is an art—an art that begins within. Whether you’re an individual seeking clarity or a leader navigating your team through change, mastery of emotional intelligence and conflict resolution is the key to unlocking your next evolution. The question is: **Are you ready to cultivate your inner dojo and build unshakable resilience?**
+At **Mindset Dojo**, we believe that transformation is an art—an art that begins within. Whether you’re an individual seeking clarity or a leader navigating your team through change, mastery of emotional intelligence and conflict dynamics is the key to unlocking your next evolution. The question is: **Are you ready to cultivate your inner dojo and build unshakable resilience?**
 
 ---
 
@@ -16,18 +16,18 @@ At **Mindset Dojo**, we believe that transformation is an art—an art that begi
   - In 12 powerful sessions, your team will learn how to navigate conflict, adapt to change, and align behind shared goals for maximum impact.
 
 - **Bespoke Leadership Consulting**
-  - For organizations facing unique challenges, our tailored consulting packages offer in-depth strategies for cultural transformation, conflict resolution, or navigating pivotal transitions.
+  - For organizations facing unique challenges, our tailored consulting packages offer in-depth strategies for cultural transformation, navigating team dynamics, or enhancing pivotal transitions.
 
 [Explore some of our success cases here](https://projects.michael.basil.one/)
 
 ---
 
-### Mindset Black Belt Program: Mastery in 7 Steps
+### **Mindset Black Belt Program: Mastery in 7 Steps**
 
 What sets great leaders apart isn’t just their ability to solve problems—it’s their capacity to influence lasting **Impact** in their lives and organizations. In the **Mindset Black Belt Program**, you will progress through 7 key steps of mastery, from white belt to black belt, with a focus on:
 
 - **Emotional Intelligence** – Master the subtle art of reading and influencing emotions, both yours and others.
-- **Conflict Mastery** – Learn to turn adversarial situations into opportunities for growth and collaboration.
+- **Conflict Mastery** – Learn to engage with conflict as a source of insight and growth, turning challenging situations into opportunities for deeper collaboration.
 - **Systems Thinking** – Gain the clarity to see how your decisions and actions create ripple effects across the systems you lead.
 
 Each phase is designed to build your skills through **micro-learning**, **community engagement**, and pressure-tested scenarios where you apply these tools in real time.
