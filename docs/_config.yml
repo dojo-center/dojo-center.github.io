@@ -22,7 +22,8 @@ beltLevels:
     sort: 1
 
 programs:
-  - mindset
+  - link: mindset
+    icon: brain
 
 engagement:
   - link: impact

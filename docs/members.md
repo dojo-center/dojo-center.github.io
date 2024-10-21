@@ -12,7 +12,7 @@ datatable: true
             <tr>
                 <th class="text-center" scope="col"></th>
                 {% for program in site.programs -%}
-                <th class="text-center" scope="col">{{program}}</th>
+                <th class="text-center" scope="col">{{program.link | capitalize}}</th>
                 {% endfor %}
             </tr>
         </thead>
@@ -30,7 +30,7 @@ datatable: true
                     </td>
                     {% for program in site.programs %}
                         {% assign beltColor = "" %}
-                        {% assign programLower = program | downcase %}
+                        {% assign programLower = program.link | downcase %}
                         {% for item in member.belts %}
                             {% if item[0] == programLower %}
                             {% assign beltColor = item[1] %}
