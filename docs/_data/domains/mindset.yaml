@@ -9,13 +9,13 @@ principles:
 communities:
   - label: Mindset Circle (Fridays at 13:00 UTC)
     link: https://circle.dojo.center
-curriculum:
+program:
   - level: white
     label: White level - Orientation
     guidance:
       - Meet with a sensei to go over your intention and receive tailored instruction on proceeding
       - Attend a community call and introduce yourself
-    movements:
+    exercises:
       - label: How to Start a Movement
         link: https://www.ted.com/talks/derek_sivers_how_to_start_a_movement
         type: video-camera
@@ -23,11 +23,11 @@ curriculum:
     label: Yellow level - Plasticity
     guidance:
       - Meet with a sensei to go over your intention and receive tailored instruction on proceeding
-      - As you complete the movements as instructed ensure you reflect on your experience at community calls
+      - As you complete the exercises as instructed ensure you reflect on your experience at community calls
       - Attend a minimum of 3 community calls applying what you have learned in targeted spots
       - Prepare a written reflection as per guidance by a sensei
       - When you and the sensei are in alignment bring the reflection to a community call for integration testing
-    movements:
+    exercises:
       - label: Adult Learns to Ride a Bicycle for the First Time!
         link: https://www.youtube.com/watch?v=ELW3CgR-DW4
         type: video-camera
@@ -50,11 +50,11 @@ curriculum:
     label: Green level - Perception
     guidance:
       - Meet with a sensei to go over your intention and receive tailored instruction on proceeding
-      - As you complete the movements as instructed ensure you reflect on your experience at community calls
+      - As you complete the exercises as instructed ensure you reflect on your experience at community calls
       - Attend a minimum of 3 community calls applying what you have learned in targeted spots
       - Prepare a written reflection as per guidance by a sensei
       - When you and the sensei are in alignment bring the reflection to a community call for integration testing
-    movements:
+    exercises:
       - label: Bias - Duck Rabbit - Amy Krause
         link: https://www.youtube.com/watch?v=36AqMX5uua4
         type: video-camera
@@ -77,11 +77,11 @@ curriculum:
     label: Blue level - Emotions
     guidance:
       - Meet with a sensei to go over your intention and receive tailored instruction on proceeding
-      - As you complete the movements as instructed ensure you reflect on your experience at community calls
+      - As you complete the exercises as instructed ensure you reflect on your experience at community calls
       - Attend a minimum of 3 community calls applying what you have learned in targeted spots
       - Prepare a written reflection as per guidance by a sensei
       - When you and the sensei are in alignment bring the reflection to a community call for integration testing
-    movements:
+    exercises:
       - label: Agile Mental Model (Karpman Awareness Triangle)
         link: https://agile-od.com/mental-model-dojo/karpmans-drama-triangle
         type: globe
@@ -95,13 +95,13 @@ curriculum:
     label: Purple level - Motivation
     guidance:
       - Meet with a sensei to go over your intention and receive tailored instruction on proceeding
-      - As you complete the movements as instructed ensure you reflect on your experience at community calls
+      - As you complete the exercises as instructed ensure you reflect on your experience at community calls
       - Meet with a sensei halfway through the materials
       - Attend a minimum of 5 community calls applying what you have learned in targeted spots
       - Lead a minimum of 2 community calls applying what you have learned in targeted spots while keeping some awareness on the group
       - Prepare a written reflection as per guidance by a sensei
       - When you and the sensei are in alignment bring the reflection to a community call for integration testing
-    movements:
+    exercises:
       - label: The Goal Video - Boy Scout Hike
         link: https://www.youtube.com/watch?v=Heesxgrl-cM
         type: video-camera
@@ -124,13 +124,13 @@ curriculum:
     label: Brown level - Energy
     guidance:
       - Meet with a sensei to go over your intention and receive tailored instruction on proceeding
-      - As you complete the movements as instructed ensure you reflect on your experience at community calls
+      - As you complete the exercises as instructed ensure you reflect on your experience at community calls
       - Meet with a sensei once you are ready for the Focused Energy Balance Indicator (FEBI) assessment
       - Attend a minimum of 5 community calls applying what you have learned in targeted spots
       - Lead a minimum of 2 community calls applying what you have learned in targeted spots while keeping some awareness on the group
       - Prepare a written reflection as per guidance by a sensei
       - When you and the sensei are in alignment bring the reflection to a community call for integration testing
-    movements:
+    exercises:
       - label: 4th-Person Knowing - A New, Old Way For Leadership Insight
         link: https://www.forbes.com/sites/ginnywhitelaw/2024/07/01/4th-person-knowing-a-new-old-way-for-leadership-insight
         type: globe
@@ -152,7 +152,7 @@ curriculum:
       - Lead a minimum of 2 community calls applying what you have learned in targeted spots while keeping some awareness on the group
       - Prepare a written reflection as per guidance by a sensei
       - When you and the sensei are in alignment bring the reflection to a community call for integration testing
-    movements:
+    exercises:
       - label: Never Split The Difference - Chris Voss
         link: https://www.youtube.com/watch?v=MjhDkNmtjy0
         type: video-camera
@@ -171,7 +171,7 @@ curriculum:
       - Lead a minimum of 5 community calls applying what you have learned fluidly
       - Prepare a written reflection as per guidance by a sensei
       - When you and the sensei are in alignment bring the reflection to a community call for integration testing
-    movements:
+    exercises:
       - label: Metaphors We Live By - George Lakoff and Mark Johnson
         link: https://www.youtube.com/watch?v=lYcQcwUfo8c
         type: video-camera

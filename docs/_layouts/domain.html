@@ -9,14 +9,14 @@ layout: page
     <div class="col-md-8">
         <h5><a name="communities" href="https://www.merriam-webster.com/dictionary/mission">Mission</a></h5>
         <div class="m-3">
-            <p>{{domain.mission}}</p>
+            <p>{{ domain.mission }}</p>
         </div>
         <hr>
 
         <h5><a href="https://www.merriam-webster.com/dictionary/principle">Principles</a></h5>
         <div class="m-3">
             {% for principle in domain.principles %}
-            <p>{{principle.label}}</p>
+            <p>{{ principle.label }}</p>
             {% endfor %}
         </div>
         <hr>
@@ -24,7 +24,7 @@ layout: page
         <h5><a href="https://en.m.wikipedia.org/wiki/Community">Communities</a></h5>
         <div class="m-3">
             {% for community in domain.communities %}
-            <p><a href="{{community.link}}">{{community.label}}</a></p>
+            <p><a href="{{ community.link }}">{{ community.label }}</a></p>
             {% endfor %}
         </div>
         <hr>
@@ -33,23 +33,23 @@ layout: page
 
 {% for beltLevel in site.beltLevels %}
 <h4>
-    {% assign curriculumLevel = domain.curriculum | where: "level",beltLevel.value | first %}
-    <img src="images/belt-{{curriculumLevel.level}}.png" height="50" alt="{{curriculumLevel.level}}" />
-    <a name="{{curriculumLevel.level}}-belt">{{curriculumLevel.label}}</a>
+    {% assign programLevel = domain.program | where: "level",beltLevel.value | first %}
+    <img src="images/belt-{{ programLevel.level }}.png" height="50" alt="{{ programLevel.level }}" />
+    <a name="{{ programLevel.level }}-belt">{{ programLevel.label }}</a>
 </h4>
 <ul>
-    {% for guidance in curriculumLevel.guidance %}
+    {% for guidance in programLevel.guidance %}
     <li>{{ guidance }}</li>
     {% endfor %}
 </ul>
 <div class="col-md-10">
-    {% for movement in curriculumLevel.movements %}
-    {% if movement.type %}
-        {% capture movement_type %}fa-{{ movement.type | downcase }}{% endcapture %}
+    {% for exercise in programLevel.exercises %}
+    {% if exercise.type %}
+        {% capture exercise_type %}fa-{{ exercise.type | downcase }}{% endcapture %}
     {% else %}
-        {% capture movement_type %}fa-question-circle{% endcapture %}
+        {% capture exercise_type %}fa-question-circle{% endcapture %}
     {% endif %}
-    <p><a href="{{ movement.link }}" target="_blank" rel="noopener noreferrer"><i class="fa {{ movement_type }}"></i> {{ movement.label }}</a></p>
+    <p><a href="{{ exercise.link }}" target="_blank" rel="noopener noreferrer"><i class="fa {{ exercise_type }}"></i> {{ movement.label }}</a></p>
     {% endfor %}
 </div>
 {% endfor %}
