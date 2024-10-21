@@ -27,13 +27,13 @@ programs:
 
 engagement:
   - link: impact
-    icon: lightbulb-o
+    icon: lightbulb
   - link: offerings
-    icon: handshake-o
+    icon: handshake
 
 community:
   - link: stories
-    icon: newspaper-o
+    icon: newspaper
   - link: members
     icon: users
 
