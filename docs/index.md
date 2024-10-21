@@ -24,8 +24,6 @@ At Mindset Dojo, we focus on sustainable change by addressing the intersection o
 
 Our methods have been especially effective in corporate environments, leadership circles, Agile practices, InnerSource, Cloud, and Secure DevOps initiatives, where adaptability and integrative thinking are essential for success.
 
-[Explore some of our success cases here](https://projects.michael.basil.one/)
-
 ---
 
 ### Beyond Business, Life Integration
